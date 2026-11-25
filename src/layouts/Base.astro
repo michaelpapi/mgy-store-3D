@@ -1,0 +1,65 @@
+---
+import '@fontsource-variable/geist';
+import '@fontsource-variable/geist-mono';
+import '../styles/mgy.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import Cart from '../components/Cart.astro';
+import Sent from '../components/Sent.astro';
+import { config, clientData, json } from '../lib/site';
+
+interface Props { title: string; description: string; image?: string; gate?: boolean; jsonld?: unknown; }
+const { title, description, image = '/brand/og.png', gate = false, jsonld } = Astro.props;
+const w = config.welcome;
+const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : undefined;
+const orgLd = { '@context': 'https://schema.org', '@type': 'Organization', name: config.business.name, url: Astro.site?.href, logo: '/brand/mgy-logo.webp', sameAs: [`https://instagram.com/${config.contact.instagram}`] };
+---
+<!doctype html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    {canonical && <link rel="canonical" href={canonical} />}
+    <link rel="icon" href="/brand/favicon.png" type="image/png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={config.business.name} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={image} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script type="application/ld+json" set:html={json(jsonld ?? orgLd)} />
+    <script is:inline>
+      /* apply the saved (or system) theme before first paint so there is no flash */
+      try{var t=localStorage.getItem('mgyTheme');if(!t)t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.dataset.theme=t}catch(e){}
+    </script>
+    {gate && w.enabled && (
+      <script is:inline define:vars={{ remember: w.rememberSession }}>
+        /* hold the shop back behind the welcome gate from the very first paint (src/scripts/welcome.ts builds the screen) */
+        (function(){var d=document.documentElement,q=location.search;try{
+          var seen=remember&&sessionStorage.getItem('mgyEntered')=='1';
+          if(/[?&]nowelcome\b/.test(q)||(seen&&!/[?&]welcome\b/.test(q)))return;
+          d.classList.add('gated');
+          setTimeout(function(){if(!document.getElementById('welcome'))d.classList.remove('gated')},6000); /* never leave the shop hidden if the script fails */
+        }catch(e){}})();
+      </script>
+    )}
+  </head>
+  <body class={gate ? 'template-index' : 'template-page'}>
+    <a class="skip" href="#main">Skip to content</a>
+    <Header />
+    <main id="main">
+      <slot />
+    </main>
+    <Footer />
+    <Cart />
+    <Sent />
+    <div id="toast" role="status"></div>
+    <div id="live" class="sr" aria-live="polite" role="status"></div>
+    <script id="app-data" type="application/json" set:html={json(clientData())} />
+    <script>
+      import '../scripts/main.ts';
+    </script>
+  </body>
+</html>

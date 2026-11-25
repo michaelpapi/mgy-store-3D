@@ -1,0 +1,73 @@
+{
+  "business": {
+    "name": "Misguided Yutes",
+    "short": "MGY",
+    "wordmark": "MISGUIDED YUTES",
+    "tagline": "Stay misguided.",
+    "description": "Misguided Yutes (MGY): puffers, jackets, hoodies, bottoms and silver jewelry from Drop 01. Order on WhatsApp, shipped from Atlanta.",
+    "city": "Atlanta, GA",
+    "footer": "MGY — Misguided Yutes. All rights reserved."
+  },
+  "contact": {
+    "whatsapp": "",
+    "instagram": "misguidedyutes",
+    "email": ""
+  },
+  "currency": "USD",
+  "shipping": {
+    "countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "NG",
+        "name": "Nigeria"
+      }
+    ],
+    "handlingDays": 6,
+    "note": "Shipping and any taxes are confirmed on WhatsApp before you pay."
+  },
+  "categories": [
+    "Tees",
+    "Hoodies",
+    "Puffers",
+    "Jackets",
+    "Bottoms",
+    "Caps",
+    "Jewelry"
+  ],
+  "welcome": {
+    "enabled": true,
+    "launch": "2026-12-05T18:00:00-05:00",
+    "video": "/welcome/vid1.mp4",
+    "rememberSession": true
+  },
+  "chain": {
+    "eyebrow": "MGY · Jewelry",
+    "heading": "Hang tight.",
+    "subtitle": "Two pieces, one drop. Drag either one to turn it, tap one to inspect it.",
+    "idleSway": true,
+    "items": [
+      { "product": "mgy-eagle-necklace", "model": "/models/mgy-eagle-necklace.glb", "metal": "gold", "label": "Eagle Necklace" },
+      { "product": "mgy-pendant-curb-chain", "model": "/models/mgy-chain.glb", "metal": "silver", "label": "MGY Pendant" }
+    ]
+  },
+  "lookbook": {
+    "heading": "Stay misguided.",
+    "subtitle": "Drop 01. Pick a look, then add the full fit or just the pieces you want."
+  },
+  "shop": {
+    "heading": "Shop the full drop",
+    "subtitle": "Every piece from every look, plus anything that didn't make a look."
+  },
+  "leads": {
+    "url": "",
+    "token": "2ff5b33f5951ccc37039f87747a21fdc",
+    "logOrders": true
+  }
+}

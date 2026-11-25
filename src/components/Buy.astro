@@ -1,0 +1,16 @@
+---
+/* Size / colour pickers + Add button for one product. The cart logic is in src/scripts/shop.ts. */
+import type { Product } from '../lib/site';
+const { product } = Astro.props as { product: Product };
+---
+<div class="buy" data-pid={product.handle}>
+  {product.options.map((o, i) => {
+    const n = o.name.toLowerCase(), size = n === 'size', colour = /^colou?r$/.test(n);
+    return (
+      <select data-opt={i} aria-label={o.name} data-color={colour ? '' : undefined}>
+        {o.values.map((v) => <option value={v} selected={size ? v === 'M' : v === o.values[0]}>{v}</option>)}
+      </select>
+    );
+  })}
+  <button type="button" class="add" data-add>Add to cart</button>
+</div>

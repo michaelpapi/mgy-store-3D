@@ -1,0 +1,10 @@
+---
+// Small stroke icons (24 x 24).
+const { name, size = 20 } = Astro.props as { name: string; size?: number };
+const P: Record<string, string> = {
+  close: '<path d="M6 6l12 12M18 6 6 18"/>',
+  wa: '<path d="M4 20l1.3-4.2A8 8 0 1 1 8.3 19L4 20Z"/><path d="M9 9.2c.3 2.4 2.4 4.5 4.8 4.8l1.2-1.2-1.8-1-.8.6a3.6 3.6 0 0 1-1.6-1.6l.6-.8-1-1.8L9 9.2Z"/>',
+  ig: '<rect x="4" y="4" width="16" height="16" rx="4.5"/><circle cx="12" cy="12" r="3.6"/><circle cx="16.8" cy="7.2" r=".6" fill="currentColor"/>',
+};
+---
+<svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" set:html={P[name] || ''} />

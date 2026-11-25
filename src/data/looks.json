@@ -1,0 +1,26 @@
+{
+  "looks": [
+    { "name": "Pretty MGY", "tagline": "Crop tee, bubble-letter sweats, one skateboard.", "image": "/looks/cro2-p5.webp",
+      "products": ["pretty-mgy-crop-tee", "bubble-mgy-sweats"] },
+    { "name": "Dark Romance", "tagline": "Black tee, silhouette sweats, all white sneakers.", "image": "/looks/t1-p4.webp",
+      "products": ["dark-romance-tee", "silhouette-sweats"] },
+    { "name": "Pink Wash", "tagline": "Washed pink wide-legs under the pink block crop.", "image": "/looks/cro1-p2.webp",
+      "products": ["pink-block-crop-tee", "pink-wash-wide-leg"] },
+    { "name": "Cream & Crest", "tagline": "The blob tee up front, a DJ on the back.", "image": "/looks/p3-t7.webp", "backImage": "/looks/t7-p3.webp",
+      "products": ["blob-tee", "crest-wide-leg-sweats"] },
+    { "name": "Brackets", "tagline": "White tee, black brackets, say it loud.", "image": "/looks/t3.webp",
+      "products": ["brackets-tee"] },
+    { "name": "X Marks", "tagline": "Dark Romance up top, X track pants below.", "image": "/looks/t1-p6.webp",
+      "products": ["dark-romance-tee", "x-track-pants"] },
+    { "name": "Lips", "tagline": "Off the shoulder, loud and a little cheeky.", "image": "/looks/t8.webp",
+      "products": ["lips-tee"] },
+    { "name": "Worldwide", "tagline": "Turn around: the whole crew is on the back.", "image": "/looks/t2-p5.webp", "showsBack": true,
+      "products": ["fangs-tee", "bubble-mgy-sweats"] },
+    { "name": "Flower Girl", "tagline": "Ink-drawn tee over silhouette sweats.", "image": "/looks/t9-p4.webp",
+      "products": ["flower-girl-tee", "silhouette-sweats"] },
+    { "name": "Pink Block", "tagline": "Blue brush lettering on a pink block.", "image": "/looks/cro1.webp",
+      "products": ["pink-block-crop-tee"] },
+    { "name": "Faces", "tagline": "A collage of faces across the back, flame pants below.", "image": "/looks/t3-p1.webp", "showsBack": true,
+      "products": ["brackets-tee", "flame-track-pants"] }
+  ]
+}

@@ -1,0 +1,17 @@
+---
+import ProductCard from './ProductCard.astro';
+import { config, products } from '../lib/site';
+const s = config.shop;
+---
+<section class="shop" id="shop"><div class="in">
+  <h2 class="display">{s.heading}</h2>
+  <p class="sub">{s.subtitle}</p>
+  <div class="chips" id="chips">
+    <button type="button" class="on" data-filter="All">All</button>
+    {config.categories.map((c) => <button type="button" data-filter={c}>{c}</button>)}
+  </div>
+  <div class="grid" id="grid">
+    {products.map((p, i) => <ProductCard product={p} eager={i < 4} />)}
+  </div>
+  <p id="grid-empty" class="empty" hidden>Nothing in this category yet.</p>
+</div></section>

@@ -1,0 +1,50 @@
+---
+import Icon from './Icon.astro';
+const reasons = ['WhatsApp did not open', 'I changed my mind', 'I could not send the message', 'Something else'];
+---
+<dialog id="ask" class="modal" aria-labelledby="ask-title">
+  <div class="modal-in">
+    <section data-step="ask">
+      <h2 id="ask-title" class="display">Did your message go through?</h2>
+      <p class="muted">We only count your order once you tell us it was sent on WhatsApp.</p>
+      <div class="stack">
+        <button class="btn btn-primary btn-lg" type="button" data-yes>Yes, I sent it</button>
+        <button class="btn btn-ghost" type="button" data-no>No, it didn't go through</button>
+        <a class="btn btn-ghost" data-retry href="#" target="_blank" rel="noopener"><Icon name="wa" size={18} /> Open WhatsApp again</a>
+        <button class="link" type="button" data-cancel-ask>Cancel and start over</button>
+      </div>
+    </section>
+    <section data-step="why" hidden>
+      <h2 class="display">What happened?</h2>
+      <fieldset class="reasons">
+        <legend class="sr">Pick what happened</legend>
+        {reasons.map((r) => <label class="opt slim"><input type="radio" name="why" value={r} data-why-reason /><span>{r}</span></label>)}
+      </fieldset>
+      <div class="field"><label class="lbl" for="why-text">Tell us more <span class="muted">(optional)</span></label><textarea id="why-text" data-why-text rows="2" maxlength="240"></textarea></div>
+      <div class="field"><label class="lbl" for="why-contact">Phone or email so we can help <span class="muted">(optional)</span></label><input id="why-contact" data-why-contact type="text" maxlength="80" /></div>
+      <p class="err" data-why-hint role="alert"></p>
+      <div class="stack">
+        <button class="btn btn-primary" type="button" data-why-send>Send</button>
+        <button class="btn btn-ghost" type="button" data-why-back>Back</button>
+        <button class="link" type="button" data-cancel-why>Cancel and start over</button>
+      </div>
+    </section>
+    <section data-step="sorry" hidden>
+      <h2 class="display">Thank you for telling us</h2>
+      <p class="muted">We'll look into it. Your order is still here if you'd like to try again.</p>
+      <div class="stack">
+        <button class="btn btn-primary" type="button" data-keep>Keep my order</button>
+        <button class="btn btn-ghost" type="button" data-fresh>Clear it and start over</button>
+      </div>
+    </section>
+  </div>
+</dialog>
+
+<dialog id="thanks" class="modal thanks" aria-labelledby="thanks-title">
+  <div class="modal-in">
+    <div class="tick" aria-hidden="true"><svg viewBox="0 0 52 52"><circle cx="26" cy="26" r="23" /><path d="M15 27l8 8 15-17" /></svg></div>
+    <h2 id="thanks-title" class="display">Thank you!</h2>
+    <p class="muted">We've got your order and will reply on WhatsApp shortly with the shipping cost and how to pay.</p>
+    <button class="btn btn-primary" type="button" data-close-thanks>Close</button>
+  </div>
+</dialog>

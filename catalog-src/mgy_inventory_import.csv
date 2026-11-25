@@ -1,0 +1,307 @@
+Handle,Title,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,SKU,HS Code,COO,Location,Bin name,Incoming (not editable),Unavailable (not editable),Committed (not editable),Available (not editable),On hand (current),On hand (new)
+dark-romance-tee,Dark Romance Tee,Size,S,,,,,TEE-01-S,,,Shop location,,0,0,0,6,,6
+dark-romance-tee,Dark Romance Tee,Size,M,,,,,TEE-01-M,,,Shop location,,0,0,0,10,,10
+dark-romance-tee,Dark Romance Tee,Size,L,,,,,TEE-01-L,,,Shop location,,0,0,0,10,,10
+dark-romance-tee,Dark Romance Tee,Size,XL,,,,,TEE-01-XL,,,Shop location,,0,0,0,8,,8
+dark-romance-tee,Dark Romance Tee,Size,XXL,,,,,TEE-01-XXL,,,Shop location,,0,0,0,4,,4
+fangs-tee,Fangs Tee,Size,S,,,,,TEE-02-S,,,Shop location,,0,0,0,6,,6
+fangs-tee,Fangs Tee,Size,M,,,,,TEE-02-M,,,Shop location,,0,0,0,10,,10
+fangs-tee,Fangs Tee,Size,L,,,,,TEE-02-L,,,Shop location,,0,0,0,10,,10
+fangs-tee,Fangs Tee,Size,XL,,,,,TEE-02-XL,,,Shop location,,0,0,0,8,,8
+fangs-tee,Fangs Tee,Size,XXL,,,,,TEE-02-XXL,,,Shop location,,0,0,0,4,,4
+brackets-tee,Brackets Tee,Size,S,,,,,TEE-03-S,,,Shop location,,0,0,0,6,,6
+brackets-tee,Brackets Tee,Size,M,,,,,TEE-03-M,,,Shop location,,0,0,0,10,,10
+brackets-tee,Brackets Tee,Size,L,,,,,TEE-03-L,,,Shop location,,0,0,0,10,,10
+brackets-tee,Brackets Tee,Size,XL,,,,,TEE-03-XL,,,Shop location,,0,0,0,8,,8
+brackets-tee,Brackets Tee,Size,XXL,,,,,TEE-03-XXL,,,Shop location,,0,0,0,4,,4
+crown-tee,Crown Tee,Size,S,Color,White,,,TEE-04-WHI-S,,,Shop location,,0,0,0,6,,6
+crown-tee,Crown Tee,Size,M,Color,White,,,TEE-04-WHI-M,,,Shop location,,0,0,0,10,,10
+crown-tee,Crown Tee,Size,L,Color,White,,,TEE-04-WHI-L,,,Shop location,,0,0,0,10,,10
+crown-tee,Crown Tee,Size,XL,Color,White,,,TEE-04-WHI-XL,,,Shop location,,0,0,0,8,,8
+crown-tee,Crown Tee,Size,XXL,Color,White,,,TEE-04-WHI-XXL,,,Shop location,,0,0,0,4,,4
+crown-tee,Crown Tee,Size,S,Color,Cream,,,TEE-04-CRE-S,,,Shop location,,0,0,0,6,,6
+crown-tee,Crown Tee,Size,M,Color,Cream,,,TEE-04-CRE-M,,,Shop location,,0,0,0,10,,10
+crown-tee,Crown Tee,Size,L,Color,Cream,,,TEE-04-CRE-L,,,Shop location,,0,0,0,10,,10
+crown-tee,Crown Tee,Size,XL,Color,Cream,,,TEE-04-CRE-XL,,,Shop location,,0,0,0,8,,8
+crown-tee,Crown Tee,Size,XXL,Color,Cream,,,TEE-04-CRE-XXL,,,Shop location,,0,0,0,4,,4
+tape-tee,Tape Tee,Size,S,,,,,TEE-05-S,,,Shop location,,0,0,0,6,,6
+tape-tee,Tape Tee,Size,M,,,,,TEE-05-M,,,Shop location,,0,0,0,10,,10
+tape-tee,Tape Tee,Size,L,,,,,TEE-05-L,,,Shop location,,0,0,0,10,,10
+tape-tee,Tape Tee,Size,XL,,,,,TEE-05-XL,,,Shop location,,0,0,0,8,,8
+tape-tee,Tape Tee,Size,XXL,,,,,TEE-05-XXL,,,Shop location,,0,0,0,4,,4
+warning-tee,Warning Tee,Size,S,,,,,TEE-06-S,,,Shop location,,0,0,0,6,,6
+warning-tee,Warning Tee,Size,M,,,,,TEE-06-M,,,Shop location,,0,0,0,10,,10
+warning-tee,Warning Tee,Size,L,,,,,TEE-06-L,,,Shop location,,0,0,0,10,,10
+warning-tee,Warning Tee,Size,XL,,,,,TEE-06-XL,,,Shop location,,0,0,0,8,,8
+warning-tee,Warning Tee,Size,XXL,,,,,TEE-06-XXL,,,Shop location,,0,0,0,4,,4
+blob-tee,Blob Tee,Size,S,,,,,TEE-07-S,,,Shop location,,0,0,0,6,,6
+blob-tee,Blob Tee,Size,M,,,,,TEE-07-M,,,Shop location,,0,0,0,10,,10
+blob-tee,Blob Tee,Size,L,,,,,TEE-07-L,,,Shop location,,0,0,0,10,,10
+blob-tee,Blob Tee,Size,XL,,,,,TEE-07-XL,,,Shop location,,0,0,0,8,,8
+blob-tee,Blob Tee,Size,XXL,,,,,TEE-07-XXL,,,Shop location,,0,0,0,4,,4
+lips-tee,Lips Tee,Size,S,,,,,TEE-08-S,,,Shop location,,0,0,0,6,,6
+lips-tee,Lips Tee,Size,M,,,,,TEE-08-M,,,Shop location,,0,0,0,10,,10
+lips-tee,Lips Tee,Size,L,,,,,TEE-08-L,,,Shop location,,0,0,0,10,,10
+lips-tee,Lips Tee,Size,XL,,,,,TEE-08-XL,,,Shop location,,0,0,0,8,,8
+lips-tee,Lips Tee,Size,XXL,,,,,TEE-08-XXL,,,Shop location,,0,0,0,4,,4
+flower-girl-tee,Flower Girl Tee,Size,S,,,,,TEE-09-S,,,Shop location,,0,0,0,6,,6
+flower-girl-tee,Flower Girl Tee,Size,M,,,,,TEE-09-M,,,Shop location,,0,0,0,10,,10
+flower-girl-tee,Flower Girl Tee,Size,L,,,,,TEE-09-L,,,Shop location,,0,0,0,10,,10
+flower-girl-tee,Flower Girl Tee,Size,XL,,,,,TEE-09-XL,,,Shop location,,0,0,0,8,,8
+flower-girl-tee,Flower Girl Tee,Size,XXL,,,,,TEE-09-XXL,,,Shop location,,0,0,0,4,,4
+pink-block-crop-tee,Pink Block Crop Tee,Size,S,,,,,CRO-01-S,,,Shop location,,0,0,0,6,,6
+pink-block-crop-tee,Pink Block Crop Tee,Size,M,,,,,CRO-01-M,,,Shop location,,0,0,0,10,,10
+pink-block-crop-tee,Pink Block Crop Tee,Size,L,,,,,CRO-01-L,,,Shop location,,0,0,0,10,,10
+pink-block-crop-tee,Pink Block Crop Tee,Size,XL,,,,,CRO-01-XL,,,Shop location,,0,0,0,8,,8
+pink-block-crop-tee,Pink Block Crop Tee,Size,XXL,,,,,CRO-01-XXL,,,Shop location,,0,0,0,4,,4
+pretty-mgy-crop-tee,Pretty MGY Crop Tee,Size,S,,,,,CRO-02-S,,,Shop location,,0,0,0,6,,6
+pretty-mgy-crop-tee,Pretty MGY Crop Tee,Size,M,,,,,CRO-02-M,,,Shop location,,0,0,0,10,,10
+pretty-mgy-crop-tee,Pretty MGY Crop Tee,Size,L,,,,,CRO-02-L,,,Shop location,,0,0,0,10,,10
+pretty-mgy-crop-tee,Pretty MGY Crop Tee,Size,XL,,,,,CRO-02-XL,,,Shop location,,0,0,0,8,,8
+pretty-mgy-crop-tee,Pretty MGY Crop Tee,Size,XXL,,,,,CRO-02-XXL,,,Shop location,,0,0,0,4,,4
+gothic-hoodie,Gothic Hoodie,Size,S,,,,,HDL-01-S,,,Shop location,,0,0,0,6,,6
+gothic-hoodie,Gothic Hoodie,Size,M,,,,,HDL-01-M,,,Shop location,,0,0,0,10,,10
+gothic-hoodie,Gothic Hoodie,Size,L,,,,,HDL-01-L,,,Shop location,,0,0,0,10,,10
+gothic-hoodie,Gothic Hoodie,Size,XL,,,,,HDL-01-XL,,,Shop location,,0,0,0,8,,8
+gothic-hoodie,Gothic Hoodie,Size,XXL,,,,,HDL-01-XXL,,,Shop location,,0,0,0,4,,4
+skate-hoodie,Skate Hoodie,Size,S,,,,,HDL-02-S,,,Shop location,,0,0,0,6,,6
+skate-hoodie,Skate Hoodie,Size,M,,,,,HDL-02-M,,,Shop location,,0,0,0,10,,10
+skate-hoodie,Skate Hoodie,Size,L,,,,,HDL-02-L,,,Shop location,,0,0,0,10,,10
+skate-hoodie,Skate Hoodie,Size,XL,,,,,HDL-02-XL,,,Shop location,,0,0,0,8,,8
+skate-hoodie,Skate Hoodie,Size,XXL,,,,,HDL-02-XXL,,,Shop location,,0,0,0,4,,4
+stamp-hoodie,Stamp Hoodie,Size,S,,,,,HDL-03-S,,,Shop location,,0,0,0,6,,6
+stamp-hoodie,Stamp Hoodie,Size,M,,,,,HDL-03-M,,,Shop location,,0,0,0,10,,10
+stamp-hoodie,Stamp Hoodie,Size,L,,,,,HDL-03-L,,,Shop location,,0,0,0,10,,10
+stamp-hoodie,Stamp Hoodie,Size,XL,,,,,HDL-03-XL,,,Shop location,,0,0,0,8,,8
+stamp-hoodie,Stamp Hoodie,Size,XXL,,,,,HDL-03-XXL,,,Shop location,,0,0,0,4,,4
+mask-hoodie,Mask Hoodie,Size,S,,,,,HDL-04-S,,,Shop location,,0,0,0,6,,6
+mask-hoodie,Mask Hoodie,Size,M,,,,,HDL-04-M,,,Shop location,,0,0,0,10,,10
+mask-hoodie,Mask Hoodie,Size,L,,,,,HDL-04-L,,,Shop location,,0,0,0,10,,10
+mask-hoodie,Mask Hoodie,Size,XL,,,,,HDL-04-XL,,,Shop location,,0,0,0,8,,8
+mask-hoodie,Mask Hoodie,Size,XXL,,,,,HDL-04-XXL,,,Shop location,,0,0,0,4,,4
+flame-track-pants,Flame Track Pants,Size,S,,,,,PNT-01-S,,,Shop location,,0,0,0,6,,6
+flame-track-pants,Flame Track Pants,Size,M,,,,,PNT-01-M,,,Shop location,,0,0,0,10,,10
+flame-track-pants,Flame Track Pants,Size,L,,,,,PNT-01-L,,,Shop location,,0,0,0,10,,10
+flame-track-pants,Flame Track Pants,Size,XL,,,,,PNT-01-XL,,,Shop location,,0,0,0,8,,8
+flame-track-pants,Flame Track Pants,Size,XXL,,,,,PNT-01-XXL,,,Shop location,,0,0,0,4,,4
+pink-wash-wide-leg,Pink Wash Wide-Leg,Size,S,,,,,PNT-02-S,,,Shop location,,0,0,0,6,,6
+pink-wash-wide-leg,Pink Wash Wide-Leg,Size,M,,,,,PNT-02-M,,,Shop location,,0,0,0,10,,10
+pink-wash-wide-leg,Pink Wash Wide-Leg,Size,L,,,,,PNT-02-L,,,Shop location,,0,0,0,10,,10
+pink-wash-wide-leg,Pink Wash Wide-Leg,Size,XL,,,,,PNT-02-XL,,,Shop location,,0,0,0,8,,8
+pink-wash-wide-leg,Pink Wash Wide-Leg,Size,XXL,,,,,PNT-02-XXL,,,Shop location,,0,0,0,4,,4
+crest-wide-leg-sweats,Crest Wide-Leg Sweats,Size,S,,,,,PNT-03-S,,,Shop location,,0,0,0,6,,6
+crest-wide-leg-sweats,Crest Wide-Leg Sweats,Size,M,,,,,PNT-03-M,,,Shop location,,0,0,0,10,,10
+crest-wide-leg-sweats,Crest Wide-Leg Sweats,Size,L,,,,,PNT-03-L,,,Shop location,,0,0,0,10,,10
+crest-wide-leg-sweats,Crest Wide-Leg Sweats,Size,XL,,,,,PNT-03-XL,,,Shop location,,0,0,0,8,,8
+crest-wide-leg-sweats,Crest Wide-Leg Sweats,Size,XXL,,,,,PNT-03-XXL,,,Shop location,,0,0,0,4,,4
+silhouette-sweats,Silhouette Sweats,Size,S,,,,,PNT-04-S,,,Shop location,,0,0,0,6,,6
+silhouette-sweats,Silhouette Sweats,Size,M,,,,,PNT-04-M,,,Shop location,,0,0,0,10,,10
+silhouette-sweats,Silhouette Sweats,Size,L,,,,,PNT-04-L,,,Shop location,,0,0,0,10,,10
+silhouette-sweats,Silhouette Sweats,Size,XL,,,,,PNT-04-XL,,,Shop location,,0,0,0,8,,8
+silhouette-sweats,Silhouette Sweats,Size,XXL,,,,,PNT-04-XXL,,,Shop location,,0,0,0,4,,4
+bubble-mgy-sweats,Bubble MGY Sweats,Size,S,,,,,PNT-05-S,,,Shop location,,0,0,0,6,,6
+bubble-mgy-sweats,Bubble MGY Sweats,Size,M,,,,,PNT-05-M,,,Shop location,,0,0,0,10,,10
+bubble-mgy-sweats,Bubble MGY Sweats,Size,L,,,,,PNT-05-L,,,Shop location,,0,0,0,10,,10
+bubble-mgy-sweats,Bubble MGY Sweats,Size,XL,,,,,PNT-05-XL,,,Shop location,,0,0,0,8,,8
+bubble-mgy-sweats,Bubble MGY Sweats,Size,XXL,,,,,PNT-05-XXL,,,Shop location,,0,0,0,4,,4
+x-track-pants,X Track Pants,Size,S,,,,,PNT-06-S,,,Shop location,,0,0,0,6,,6
+x-track-pants,X Track Pants,Size,M,,,,,PNT-06-M,,,Shop location,,0,0,0,10,,10
+x-track-pants,X Track Pants,Size,L,,,,,PNT-06-L,,,Shop location,,0,0,0,10,,10
+x-track-pants,X Track Pants,Size,XL,,,,,PNT-06-XL,,,Shop location,,0,0,0,8,,8
+x-track-pants,X Track Pants,Size,XXL,,,,,PNT-06-XXL,,,Shop location,,0,0,0,4,,4
+pleated-mini-skirt,Pleated Mini Skirt,Size,S,,,,,SKT-01-S,,,Shop location,,0,0,0,6,,6
+pleated-mini-skirt,Pleated Mini Skirt,Size,M,,,,,SKT-01-M,,,Shop location,,0,0,0,10,,10
+pleated-mini-skirt,Pleated Mini Skirt,Size,L,,,,,SKT-01-L,,,Shop location,,0,0,0,10,,10
+pleated-mini-skirt,Pleated Mini Skirt,Size,XL,,,,,SKT-01-XL,,,Shop location,,0,0,0,8,,8
+pleated-mini-skirt,Pleated Mini Skirt,Size,XXL,,,,,SKT-01-XXL,,,Shop location,,0,0,0,4,,4
+crown-trucker-cap,MGY Crown Trucker Cap,Color,Red,,,,,CAP-01-RED0,,,Shop location,,0,0,0,12,,12
+crown-trucker-cap,MGY Crown Trucker Cap,Color,Green,,,,,CAP-01-GRE1,,,Shop location,,0,0,0,12,,12
+crown-trucker-cap,MGY Crown Trucker Cap,Color,Gold,,,,,CAP-01-GOL2,,,Shop location,,0,0,0,12,,12
+crown-trucker-cap,MGY Crown Trucker Cap,Color,Gold & Red,,,,,CAP-01-GOL3,,,Shop location,,0,0,0,12,,12
+crown-trucker-cap,MGY Crown Trucker Cap,Color,Black,,,,,CAP-01-BLA4,,,Shop location,,0,0,0,12,,12
+crest-trucker-cap,MGY Crest Trucker Cap,Title,Default Title,,,,,CAP-02,,,Shop location,,0,0,0,12,,12
+funnel-neck-puffer,Funnel Neck Puffer,Size,S,,,,,PUF-01-S,,,Shop location,,0,0,0,6,,6
+funnel-neck-puffer,Funnel Neck Puffer,Size,M,,,,,PUF-01-M,,,Shop location,,0,0,0,10,,10
+funnel-neck-puffer,Funnel Neck Puffer,Size,L,,,,,PUF-01-L,,,Shop location,,0,0,0,10,,10
+funnel-neck-puffer,Funnel Neck Puffer,Size,XL,,,,,PUF-01-XL,,,Shop location,,0,0,0,8,,8
+funnel-neck-puffer,Funnel Neck Puffer,Size,XXL,,,,,PUF-01-XXL,,,Shop location,,0,0,0,4,,4
+detachable-hood-puffer,Detachable Hood Puffer,Size,S,,,,,PUF-02-S,,,Shop location,,0,0,0,7,,7
+detachable-hood-puffer,Detachable Hood Puffer,Size,M,,,,,PUF-02-M,,,Shop location,,0,0,0,11,,11
+detachable-hood-puffer,Detachable Hood Puffer,Size,L,,,,,PUF-02-L,,,Shop location,,0,0,0,11,,11
+detachable-hood-puffer,Detachable Hood Puffer,Size,XL,,,,,PUF-02-XL,,,Shop location,,0,0,0,9,,9
+detachable-hood-puffer,Detachable Hood Puffer,Size,XXL,,,,,PUF-02-XXL,,,Shop location,,0,0,0,4,,4
+cropped-hood-puffer,Cropped Hood Puffer,Size,S,,,,,PUF-03-S,,,Shop location,,0,0,0,5,,5
+cropped-hood-puffer,Cropped Hood Puffer,Size,M,,,,,PUF-03-M,,,Shop location,,0,0,0,8,,8
+cropped-hood-puffer,Cropped Hood Puffer,Size,L,,,,,PUF-03-L,,,Shop location,,0,0,0,8,,8
+cropped-hood-puffer,Cropped Hood Puffer,Size,XL,,,,,PUF-03-XL,,,Shop location,,0,0,0,6,,6
+cropped-hood-puffer,Cropped Hood Puffer,Size,XXL,,,,,PUF-03-XXL,,,Shop location,,0,0,0,3,,3
+brown-expedition-puffer,Brown Expedition Puffer,Size,S,,,,,PUF-04-S,,,Shop location,,0,0,0,5,,5
+brown-expedition-puffer,Brown Expedition Puffer,Size,M,,,,,PUF-04-M,,,Shop location,,0,0,0,9,,9
+brown-expedition-puffer,Brown Expedition Puffer,Size,L,,,,,PUF-04-L,,,Shop location,,0,0,0,9,,9
+brown-expedition-puffer,Brown Expedition Puffer,Size,XL,,,,,PUF-04-XL,,,Shop location,,0,0,0,7,,7
+brown-expedition-puffer,Brown Expedition Puffer,Size,XXL,,,,,PUF-04-XXL,,,Shop location,,0,0,0,4,,4
+chocolate-hooded-puffer,Chocolate Hooded Puffer,Size,S,,,,,PUF-05-S,,,Shop location,,0,0,0,5,,5
+chocolate-hooded-puffer,Chocolate Hooded Puffer,Size,M,,,,,PUF-05-M,,,Shop location,,0,0,0,9,,9
+chocolate-hooded-puffer,Chocolate Hooded Puffer,Size,L,,,,,PUF-05-L,,,Shop location,,0,0,0,9,,9
+chocolate-hooded-puffer,Chocolate Hooded Puffer,Size,XL,,,,,PUF-05-XL,,,Shop location,,0,0,0,7,,7
+chocolate-hooded-puffer,Chocolate Hooded Puffer,Size,XXL,,,,,PUF-05-XXL,,,Shop location,,0,0,0,4,,4
+layered-hood-puffer,Layered Hood Puffer,Size,S,,,,,PUF-06-S,,,Shop location,,0,0,0,6,,6
+layered-hood-puffer,Layered Hood Puffer,Size,M,,,,,PUF-06-M,,,Shop location,,0,0,0,10,,10
+layered-hood-puffer,Layered Hood Puffer,Size,L,,,,,PUF-06-L,,,Shop location,,0,0,0,10,,10
+layered-hood-puffer,Layered Hood Puffer,Size,XL,,,,,PUF-06-XL,,,Shop location,,0,0,0,8,,8
+layered-hood-puffer,Layered Hood Puffer,Size,XXL,,,,,PUF-06-XXL,,,Shop location,,0,0,0,4,,4
+boxy-hooded-puffer,Boxy Hooded Puffer,Size,S,,,,,PUF-07-S,,,Shop location,,0,0,0,7,,7
+boxy-hooded-puffer,Boxy Hooded Puffer,Size,M,,,,,PUF-07-M,,,Shop location,,0,0,0,12,,12
+boxy-hooded-puffer,Boxy Hooded Puffer,Size,L,,,,,PUF-07-L,,,Shop location,,0,0,0,12,,12
+boxy-hooded-puffer,Boxy Hooded Puffer,Size,XL,,,,,PUF-07-XL,,,Shop location,,0,0,0,10,,10
+boxy-hooded-puffer,Boxy Hooded Puffer,Size,XXL,,,,,PUF-07-XXL,,,Shop location,,0,0,0,5,,5
+quilted-zip-puffer,Quilted Zip Puffer,Size,S,,,,,PUF-08-S,,,Shop location,,0,0,0,6,,6
+quilted-zip-puffer,Quilted Zip Puffer,Size,M,,,,,PUF-08-M,,,Shop location,,0,0,0,10,,10
+quilted-zip-puffer,Quilted Zip Puffer,Size,L,,,,,PUF-08-L,,,Shop location,,0,0,0,10,,10
+quilted-zip-puffer,Quilted Zip Puffer,Size,XL,,,,,PUF-08-XL,,,Shop location,,0,0,0,8,,8
+quilted-zip-puffer,Quilted Zip Puffer,Size,XXL,,,,,PUF-08-XXL,,,Shop location,,0,0,0,4,,4
+drawcord-crop-puffer,Drawcord Crop Puffer,Size,S,,,,,PUF-09-S,,,Shop location,,0,0,0,5,,5
+drawcord-crop-puffer,Drawcord Crop Puffer,Size,M,,,,,PUF-09-M,,,Shop location,,0,0,0,8,,8
+drawcord-crop-puffer,Drawcord Crop Puffer,Size,L,,,,,PUF-09-L,,,Shop location,,0,0,0,8,,8
+drawcord-crop-puffer,Drawcord Crop Puffer,Size,XL,,,,,PUF-09-XL,,,Shop location,,0,0,0,6,,6
+drawcord-crop-puffer,Drawcord Crop Puffer,Size,XXL,,,,,PUF-09-XXL,,,Shop location,,0,0,0,3,,3
+snap-front-crop-puffer,Snap-Front Crop Puffer,Size,S,,,,,PUF-10-S,,,Shop location,,0,0,0,5,,5
+snap-front-crop-puffer,Snap-Front Crop Puffer,Size,M,,,,,PUF-10-M,,,Shop location,,0,0,0,9,,9
+snap-front-crop-puffer,Snap-Front Crop Puffer,Size,L,,,,,PUF-10-L,,,Shop location,,0,0,0,9,,9
+snap-front-crop-puffer,Snap-Front Crop Puffer,Size,XL,,,,,PUF-10-XL,,,Shop location,,0,0,0,7,,7
+snap-front-crop-puffer,Snap-Front Crop Puffer,Size,XXL,,,,,PUF-10-XXL,,,Shop location,,0,0,0,4,,4
+oversized-hood-puffer,Oversized Hood Puffer,Size,S,,,,,PUF-11-S,,,Shop location,,0,0,0,4,,4
+oversized-hood-puffer,Oversized Hood Puffer,Size,M,,,,,PUF-11-M,,,Shop location,,0,0,0,7,,7
+oversized-hood-puffer,Oversized Hood Puffer,Size,L,,,,,PUF-11-L,,,Shop location,,0,0,0,7,,7
+oversized-hood-puffer,Oversized Hood Puffer,Size,XL,,,,,PUF-11-XL,,,Shop location,,0,0,0,6,,6
+oversized-hood-puffer,Oversized Hood Puffer,Size,XXL,,,,,PUF-11-XXL,,,Shop location,,0,0,0,3,,3
+armband-hood-puffer,Armband Hood Puffer,Size,S,,,,,PUF-12-S,,,Shop location,,0,0,0,7,,7
+armband-hood-puffer,Armband Hood Puffer,Size,M,,,,,PUF-12-M,,,Shop location,,0,0,0,11,,11
+armband-hood-puffer,Armband Hood Puffer,Size,L,,,,,PUF-12-L,,,Shop location,,0,0,0,11,,11
+armband-hood-puffer,Armband Hood Puffer,Size,XL,,,,,PUF-12-XL,,,Shop location,,0,0,0,9,,9
+armband-hood-puffer,Armband Hood Puffer,Size,XXL,,,,,PUF-12-XXL,,,Shop location,,0,0,0,4,,4
+zip-through-hooded-puffer,Zip-Through Hooded Puffer,Size,S,Color,Black,,,PUF-13-BLA-S,,,Shop location,,0,0,0,6,,6
+zip-through-hooded-puffer,Zip-Through Hooded Puffer,Size,M,Color,Black,,,PUF-13-BLA-M,,,Shop location,,0,0,0,10,,10
+zip-through-hooded-puffer,Zip-Through Hooded Puffer,Size,L,Color,Black,,,PUF-13-BLA-L,,,Shop location,,0,0,0,10,,10
+zip-through-hooded-puffer,Zip-Through Hooded Puffer,Size,XL,Color,Black,,,PUF-13-BLA-XL,,,Shop location,,0,0,0,8,,8
+zip-through-hooded-puffer,Zip-Through Hooded Puffer,Size,XXL,Color,Black,,,PUF-13-BLA-XXL,,,Shop location,,0,0,0,4,,4
+zip-through-hooded-puffer,Zip-Through Hooded Puffer,Size,S,Color,Navy,,,PUF-13-NAV-S,,,Shop location,,0,0,0,6,,6
+zip-through-hooded-puffer,Zip-Through Hooded Puffer,Size,M,Color,Navy,,,PUF-13-NAV-M,,,Shop location,,0,0,0,10,,10
+zip-through-hooded-puffer,Zip-Through Hooded Puffer,Size,L,Color,Navy,,,PUF-13-NAV-L,,,Shop location,,0,0,0,10,,10
+zip-through-hooded-puffer,Zip-Through Hooded Puffer,Size,XL,Color,Navy,,,PUF-13-NAV-XL,,,Shop location,,0,0,0,8,,8
+zip-through-hooded-puffer,Zip-Through Hooded Puffer,Size,XXL,Color,Navy,,,PUF-13-NAV-XXL,,,Shop location,,0,0,0,4,,4
+two-tone-panel-puffer,Two-Tone Panel Puffer,Size,S,,,,,PUF-14-S,,,Shop location,,0,0,0,5,,5
+two-tone-panel-puffer,Two-Tone Panel Puffer,Size,M,,,,,PUF-14-M,,,Shop location,,0,0,0,9,,9
+two-tone-panel-puffer,Two-Tone Panel Puffer,Size,L,,,,,PUF-14-L,,,Shop location,,0,0,0,9,,9
+two-tone-panel-puffer,Two-Tone Panel Puffer,Size,XL,,,,,PUF-14-XL,,,Shop location,,0,0,0,7,,7
+two-tone-panel-puffer,Two-Tone Panel Puffer,Size,XXL,,,,,PUF-14-XXL,,,Shop location,,0,0,0,4,,4
+sand-two-tone-puffer,Sand Two-Tone Puffer,Size,S,,,,,PUF-15-S,,,Shop location,,0,0,0,5,,5
+sand-two-tone-puffer,Sand Two-Tone Puffer,Size,M,,,,,PUF-15-M,,,Shop location,,0,0,0,8,,8
+sand-two-tone-puffer,Sand Two-Tone Puffer,Size,L,,,,,PUF-15-L,,,Shop location,,0,0,0,8,,8
+sand-two-tone-puffer,Sand Two-Tone Puffer,Size,XL,,,,,PUF-15-XL,,,Shop location,,0,0,0,6,,6
+sand-two-tone-puffer,Sand Two-Tone Puffer,Size,XXL,,,,,PUF-15-XXL,,,Shop location,,0,0,0,3,,3
+cream-stand-collar-puffer,Cream Stand-Collar Puffer,Size,S,,,,,PUF-16-S,,,Shop location,,0,0,0,5,,5
+cream-stand-collar-puffer,Cream Stand-Collar Puffer,Size,M,,,,,PUF-16-M,,,Shop location,,0,0,0,8,,8
+cream-stand-collar-puffer,Cream Stand-Collar Puffer,Size,L,,,,,PUF-16-L,,,Shop location,,0,0,0,8,,8
+cream-stand-collar-puffer,Cream Stand-Collar Puffer,Size,XL,,,,,PUF-16-XL,,,Shop location,,0,0,0,6,,6
+cream-stand-collar-puffer,Cream Stand-Collar Puffer,Size,XXL,,,,,PUF-16-XXL,,,Shop location,,0,0,0,3,,3
+hooded-puffer-vest,Hooded Puffer Vest,Size,S,,,,,PUF-17-S,,,Shop location,,0,0,0,6,,6
+hooded-puffer-vest,Hooded Puffer Vest,Size,M,,,,,PUF-17-M,,,Shop location,,0,0,0,10,,10
+hooded-puffer-vest,Hooded Puffer Vest,Size,L,,,,,PUF-17-L,,,Shop location,,0,0,0,10,,10
+hooded-puffer-vest,Hooded Puffer Vest,Size,XL,,,,,PUF-17-XL,,,Shop location,,0,0,0,8,,8
+hooded-puffer-vest,Hooded Puffer Vest,Size,XXL,,,,,PUF-17-XXL,,,Shop location,,0,0,0,4,,4
+stand-collar-puffer-vest,Stand-Collar Puffer Vest,Size,S,,,,,PUF-18-S,,,Shop location,,0,0,0,5,,5
+stand-collar-puffer-vest,Stand-Collar Puffer Vest,Size,M,,,,,PUF-18-M,,,Shop location,,0,0,0,9,,9
+stand-collar-puffer-vest,Stand-Collar Puffer Vest,Size,L,,,,,PUF-18-L,,,Shop location,,0,0,0,9,,9
+stand-collar-puffer-vest,Stand-Collar Puffer Vest,Size,XL,,,,,PUF-18-XL,,,Shop location,,0,0,0,7,,7
+stand-collar-puffer-vest,Stand-Collar Puffer Vest,Size,XXL,,,,,PUF-18-XXL,,,Shop location,,0,0,0,4,,4
+collared-puffer-jacket,Collared Puffer Jacket,Size,S,,,,,PUF-19-S,,,Shop location,,0,0,0,5,,5
+collared-puffer-jacket,Collared Puffer Jacket,Size,M,,,,,PUF-19-M,,,Shop location,,0,0,0,9,,9
+collared-puffer-jacket,Collared Puffer Jacket,Size,L,,,,,PUF-19-L,,,Shop location,,0,0,0,9,,9
+collared-puffer-jacket,Collared Puffer Jacket,Size,XL,,,,,PUF-19-XL,,,Shop location,,0,0,0,7,,7
+collared-puffer-jacket,Collared Puffer Jacket,Size,XXL,,,,,PUF-19-XXL,,,Shop location,,0,0,0,4,,4
+flight-bomber-jacket,Flight Bomber Jacket,Size,S,,,,,JKT-01-S,,,Shop location,,0,0,0,5,,5
+flight-bomber-jacket,Flight Bomber Jacket,Size,M,,,,,JKT-01-M,,,Shop location,,0,0,0,9,,9
+flight-bomber-jacket,Flight Bomber Jacket,Size,L,,,,,JKT-01-L,,,Shop location,,0,0,0,9,,9
+flight-bomber-jacket,Flight Bomber Jacket,Size,XL,,,,,JKT-01-XL,,,Shop location,,0,0,0,7,,7
+flight-bomber-jacket,Flight Bomber Jacket,Size,XXL,,,,,JKT-01-XXL,,,Shop location,,0,0,0,4,,4
+zip-work-jacket,Zip Work Jacket,Size,S,,,,,JKT-02-S,,,Shop location,,0,0,0,5,,5
+zip-work-jacket,Zip Work Jacket,Size,M,,,,,JKT-02-M,,,Shop location,,0,0,0,9,,9
+zip-work-jacket,Zip Work Jacket,Size,L,,,,,JKT-02-L,,,Shop location,,0,0,0,9,,9
+zip-work-jacket,Zip Work Jacket,Size,XL,,,,,JKT-02-XL,,,Shop location,,0,0,0,7,,7
+zip-work-jacket,Zip Work Jacket,Size,XXL,,,,,JKT-02-XXL,,,Shop location,,0,0,0,4,,4
+leather-varsity-bomber,Leather Varsity Bomber,Size,S,,,,,JKT-03-S,,,Shop location,,0,0,0,4,,4
+leather-varsity-bomber,Leather Varsity Bomber,Size,M,,,,,JKT-03-M,,,Shop location,,0,0,0,6,,6
+leather-varsity-bomber,Leather Varsity Bomber,Size,L,,,,,JKT-03-L,,,Shop location,,0,0,0,6,,6
+leather-varsity-bomber,Leather Varsity Bomber,Size,XL,,,,,JKT-03-XL,,,Shop location,,0,0,0,5,,5
+leather-varsity-bomber,Leather Varsity Bomber,Size,XXL,,,,,JKT-03-XXL,,,Shop location,,0,0,0,2,,2
+hooded-leather-jacket,Hooded Leather Jacket,Size,S,,,,,JKT-04-S,,,Shop location,,0,0,0,4,,4
+hooded-leather-jacket,Hooded Leather Jacket,Size,M,,,,,JKT-04-M,,,Shop location,,0,0,0,6,,6
+hooded-leather-jacket,Hooded Leather Jacket,Size,L,,,,,JKT-04-L,,,Shop location,,0,0,0,6,,6
+hooded-leather-jacket,Hooded Leather Jacket,Size,XL,,,,,JKT-04-XL,,,Shop location,,0,0,0,5,,5
+hooded-leather-jacket,Hooded Leather Jacket,Size,XXL,,,,,JKT-04-XXL,,,Shop location,,0,0,0,2,,2
+leather-bomber-jacket,Leather Bomber Jacket,Size,S,,,,,JKT-05-S,,,Shop location,,0,0,0,4,,4
+leather-bomber-jacket,Leather Bomber Jacket,Size,M,,,,,JKT-05-M,,,Shop location,,0,0,0,7,,7
+leather-bomber-jacket,Leather Bomber Jacket,Size,L,,,,,JKT-05-L,,,Shop location,,0,0,0,7,,7
+leather-bomber-jacket,Leather Bomber Jacket,Size,XL,,,,,JKT-05-XL,,,Shop location,,0,0,0,6,,6
+leather-bomber-jacket,Leather Bomber Jacket,Size,XXL,,,,,JKT-05-XXL,,,Shop location,,0,0,0,3,,3
+quarter-zip-pullover,Quarter-Zip Pullover,Size,S,,,,,HOD-01-S,,,Shop location,,0,0,0,6,,6
+quarter-zip-pullover,Quarter-Zip Pullover,Size,M,,,,,HOD-01-M,,,Shop location,,0,0,0,10,,10
+quarter-zip-pullover,Quarter-Zip Pullover,Size,L,,,,,HOD-01-L,,,Shop location,,0,0,0,10,,10
+quarter-zip-pullover,Quarter-Zip Pullover,Size,XL,,,,,HOD-01-XL,,,Shop location,,0,0,0,8,,8
+quarter-zip-pullover,Quarter-Zip Pullover,Size,XXL,,,,,HOD-01-XXL,,,Shop location,,0,0,0,4,,4
+boxy-logo-hoodie,Boxy Logo Hoodie,Size,S,,,,,HOD-02-S,,,Shop location,,0,0,0,7,,7
+boxy-logo-hoodie,Boxy Logo Hoodie,Size,M,,,,,HOD-02-M,,,Shop location,,0,0,0,12,,12
+boxy-logo-hoodie,Boxy Logo Hoodie,Size,L,,,,,HOD-02-L,,,Shop location,,0,0,0,12,,12
+boxy-logo-hoodie,Boxy Logo Hoodie,Size,XL,,,,,HOD-02-XL,,,Shop location,,0,0,0,10,,10
+boxy-logo-hoodie,Boxy Logo Hoodie,Size,XXL,,,,,HOD-02-XXL,,,Shop location,,0,0,0,5,,5
+tech-zip-hoodie,Tech Zip Hoodie,Size,S,,,,,HOD-03-S,,,Shop location,,0,0,0,7,,7
+tech-zip-hoodie,Tech Zip Hoodie,Size,M,,,,,HOD-03-M,,,Shop location,,0,0,0,11,,11
+tech-zip-hoodie,Tech Zip Hoodie,Size,L,,,,,HOD-03-L,,,Shop location,,0,0,0,11,,11
+tech-zip-hoodie,Tech Zip Hoodie,Size,XL,,,,,HOD-03-XL,,,Shop location,,0,0,0,9,,9
+tech-zip-hoodie,Tech Zip Hoodie,Size,XXL,,,,,HOD-03-XXL,,,Shop location,,0,0,0,4,,4
+cream-crop-hoodie,Cream Crop Hoodie,Size,S,,,,,HOD-04-S,,,Shop location,,0,0,0,5,,5
+cream-crop-hoodie,Cream Crop Hoodie,Size,M,,,,,HOD-04-M,,,Shop location,,0,0,0,8,,8
+cream-crop-hoodie,Cream Crop Hoodie,Size,L,,,,,HOD-04-L,,,Shop location,,0,0,0,8,,8
+cream-crop-hoodie,Cream Crop Hoodie,Size,XL,,,,,HOD-04-XL,,,Shop location,,0,0,0,6,,6
+cream-crop-hoodie,Cream Crop Hoodie,Size,XXL,,,,,HOD-04-XXL,,,Shop location,,0,0,0,3,,3
+black-crop-hoodie,Black Crop Hoodie,Size,S,,,,,HOD-05-S,,,Shop location,,0,0,0,6,,6
+black-crop-hoodie,Black Crop Hoodie,Size,M,,,,,HOD-05-M,,,Shop location,,0,0,0,10,,10
+black-crop-hoodie,Black Crop Hoodie,Size,L,,,,,HOD-05-L,,,Shop location,,0,0,0,10,,10
+black-crop-hoodie,Black Crop Hoodie,Size,XL,,,,,HOD-05-XL,,,Shop location,,0,0,0,8,,8
+black-crop-hoodie,Black Crop Hoodie,Size,XXL,,,,,HOD-05-XXL,,,Shop location,,0,0,0,4,,4
+white-shrug-hoodie,White Shrug Hoodie,Size,S,,,,,HOD-06-S,,,Shop location,,0,0,0,4,,4
+white-shrug-hoodie,White Shrug Hoodie,Size,M,,,,,HOD-06-M,,,Shop location,,0,0,0,7,,7
+white-shrug-hoodie,White Shrug Hoodie,Size,L,,,,,HOD-06-L,,,Shop location,,0,0,0,7,,7
+white-shrug-hoodie,White Shrug Hoodie,Size,XL,,,,,HOD-06-XL,,,Shop location,,0,0,0,6,,6
+white-shrug-hoodie,White Shrug Hoodie,Size,XXL,,,,,HOD-06-XXL,,,Shop location,,0,0,0,3,,3
+white-zip-crop-hoodie,White Zip Crop Hoodie,Size,S,,,,,HOD-07-S,,,Shop location,,0,0,0,5,,5
+white-zip-crop-hoodie,White Zip Crop Hoodie,Size,M,,,,,HOD-07-M,,,Shop location,,0,0,0,8,,8
+white-zip-crop-hoodie,White Zip Crop Hoodie,Size,L,,,,,HOD-07-L,,,Shop location,,0,0,0,8,,8
+white-zip-crop-hoodie,White Zip Crop Hoodie,Size,XL,,,,,HOD-07-XL,,,Shop location,,0,0,0,6,,6
+white-zip-crop-hoodie,White Zip Crop Hoodie,Size,XXL,,,,,HOD-07-XXL,,,Shop location,,0,0,0,3,,3
+wide-leg-sweatpants,Wide-Leg Sweatpants,Size,S,,,,,BTM-01-S,,,Shop location,,0,0,0,6,,6
+wide-leg-sweatpants,Wide-Leg Sweatpants,Size,M,,,,,BTM-01-M,,,Shop location,,0,0,0,10,,10
+wide-leg-sweatpants,Wide-Leg Sweatpants,Size,L,,,,,BTM-01-L,,,Shop location,,0,0,0,10,,10
+wide-leg-sweatpants,Wide-Leg Sweatpants,Size,XL,,,,,BTM-01-XL,,,Shop location,,0,0,0,8,,8
+wide-leg-sweatpants,Wide-Leg Sweatpants,Size,XXL,,,,,BTM-01-XXL,,,Shop location,,0,0,0,4,,4
+camo-cargo-pants,Camo Cargo Pants,Size,S,,,,,BTM-02-S,,,Shop location,,0,0,0,5,,5
+camo-cargo-pants,Camo Cargo Pants,Size,M,,,,,BTM-02-M,,,Shop location,,0,0,0,9,,9
+camo-cargo-pants,Camo Cargo Pants,Size,L,,,,,BTM-02-L,,,Shop location,,0,0,0,9,,9
+camo-cargo-pants,Camo Cargo Pants,Size,XL,,,,,BTM-02-XL,,,Shop location,,0,0,0,7,,7
+camo-cargo-pants,Camo Cargo Pants,Size,XXL,,,,,BTM-02-XXL,,,Shop location,,0,0,0,4,,4
+mgy-eagle-necklace,MGY Eagle Necklace,Chain Length,18 in,,,,,JWL-04-18,,,Shop location,,0,0,0,6,,6
+mgy-eagle-necklace,MGY Eagle Necklace,Chain Length,20 in,,,,,JWL-04-20,,,Shop location,,0,0,0,8,,8
+mgy-eagle-necklace,MGY Eagle Necklace,Chain Length,22 in,,,,,JWL-04-22,,,Shop location,,0,0,0,8,,8
+mgy-eagle-necklace,MGY Eagle Necklace,Chain Length,24 in,,,,,JWL-04-24,,,Shop location,,0,0,0,6,,6
+mgy-pendant-curb-chain,MGY Pendant & Curb Chain,Chain Length,18 in,,,,,JWL-01-18,,,Shop location,,0,0,0,8,,8
+mgy-pendant-curb-chain,MGY Pendant & Curb Chain,Chain Length,20 in,,,,,JWL-01-20,,,Shop location,,0,0,0,12,,12
+mgy-pendant-curb-chain,MGY Pendant & Curb Chain,Chain Length,22 in,,,,,JWL-01-22,,,Shop location,,0,0,0,12,,12
+mgy-pendant-curb-chain,MGY Pendant & Curb Chain,Chain Length,24 in,,,,,JWL-01-24,,,Shop location,,0,0,0,8,,8
+mgy-sculptural-ring,MGY Sculptural Ring,Ring Size,7,,,,,JWL-02-7,,,Shop location,,0,0,0,6,,6
+mgy-sculptural-ring,MGY Sculptural Ring,Ring Size,8,,,,,JWL-02-8,,,Shop location,,0,0,0,8,,8
+mgy-sculptural-ring,MGY Sculptural Ring,Ring Size,9,,,,,JWL-02-9,,,Shop location,,0,0,0,8,,8
+mgy-sculptural-ring,MGY Sculptural Ring,Ring Size,10,,,,,JWL-02-10,,,Shop location,,0,0,0,8,,8
+mgy-sculptural-ring,MGY Sculptural Ring,Ring Size,11,,,,,JWL-02-11,,,Shop location,,0,0,0,6,,6
+mgy-sculptural-ring,MGY Sculptural Ring,Ring Size,12,,,,,JWL-02-12,,,Shop location,,0,0,0,4,,4
+mgy-belt-buckle,MGY Belt Buckle,Title,Default Title,,,,,JWL-03,,,Shop location,,0,0,0,15,,15

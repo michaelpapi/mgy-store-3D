@@ -1,0 +1,36 @@
+---
+import Icon from './Icon.astro';
+import { config } from '../lib/site';
+---
+<div id="order-bar" class="order-bar" hidden>
+  <div><b data-bar-count>0 items</b><span class="muted"> · <span data-bar-total>$0.00</span></span></div>
+  <button class="btn btn-primary btn-sm" type="button" data-open-cart>View order</button>
+</div>
+
+<dialog id="cart" class="drawer" aria-labelledby="cart-title">
+  <div class="flow">
+    <header class="flow-hd">
+      <h2 id="cart-title" class="display">Your order</h2>
+      <button class="icon-btn" type="button" data-close-cart aria-label="Close your order"><Icon name="close" size={22} /></button>
+    </header>
+    <p id="cart-empty" class="muted">Your order is empty. Pick a look or a piece to start.</p>
+    <ul id="cart-list" class="cart-list"></ul>
+    <div id="cart-totals" hidden>
+      <div class="tot"><span>Subtotal</span><b id="cart-total">$0.00</b></div>
+      <p class="muted small">{config.shipping.note}</p>
+    </div>
+    <form id="cart-form" hidden novalidate>
+      <div class="field"><label class="lbl" for="co-name">Your name</label><input id="co-name" type="text" autocomplete="name" maxlength="80" /><p class="err" data-err="name" role="alert"></p></div>
+      <div class="field"><label class="lbl" for="co-phone">Phone number <span class="muted">(optional)</span></label><input id="co-phone" type="tel" inputmode="tel" autocomplete="tel" maxlength="24" placeholder="+1 404 555 0123" /><p class="err" data-err="phone" role="alert"></p></div>
+      <div class="field"><label class="lbl" for="co-email">Email <span class="muted">(optional)</span></label><input id="co-email" type="email" inputmode="email" autocomplete="email" maxlength="80" /><p class="err" data-err="email" role="alert"></p></div>
+      <div class="field"><label class="lbl" for="co-country">Ship to</label>
+        <select id="co-country" autocomplete="country-name">{config.shipping.countries.map((c) => <option value={c.name}>{c.name}</option>)}</select></div>
+      <div class="field"><label class="lbl" for="co-address">Delivery address</label><textarea id="co-address" rows="3" maxlength="300" autocomplete="street-address" placeholder="Street, city, state / region, postcode"></textarea><p class="err" data-err="address" role="alert"></p></div>
+      <div class="field"><label class="lbl" for="co-note">Note <span class="muted">(optional)</span></label><input id="co-note" type="text" maxlength="140" /></div>
+      <p id="cart-off" class="off" role="alert" hidden>Checkout is not switched on yet: add the shop's WhatsApp number to <code>src/data/site.json</code> (contact → whatsapp).</p>
+      <button class="btn btn-primary btn-lg" type="submit"><Icon name="wa" size={20} /> Send order on WhatsApp</button>
+      <button id="cart-clear" class="link" type="button">Clear order</button>
+      <p class="muted small">WhatsApp opens with your order ready to send. It isn't confirmed until we reply with the shipping cost and how to pay.</p>
+    </form>
+  </div>
+</dialog>

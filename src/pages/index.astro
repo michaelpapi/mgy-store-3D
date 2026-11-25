@@ -1,0 +1,15 @@
+---
+import Base from '../layouts/Base.astro';
+import Welcome from '../components/Welcome.astro';
+import ChainShowcase from '../components/ChainShowcase.astro';
+import Lookbook from '../components/Lookbook.astro';
+import ShopGrid from '../components/ShopGrid.astro';
+import { config } from '../lib/site';
+const title = `${config.business.name} · ${config.business.tagline}`;
+---
+<Base title={title} description={config.business.description} gate>
+  {config.welcome.enabled && <Welcome />}
+  <ChainShowcase />
+  <Lookbook />
+  <ShopGrid />
+</Base>

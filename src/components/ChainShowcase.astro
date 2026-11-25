@@ -1,0 +1,72 @@
+---
+/* 3D chain showcase. The pieces listed in src/data/site.json ("chain.items": the eagle necklace first, then the MGY pendant) hang side
+   by side in one scene. They drop in together when the welcome screen opens. Drag any piece to turn it; click / tap one (or use its
+   button) to bring it forward and open its product details; pick the other to swap. Every piece is inspected the same way.
+   The scene lives in src/scripts/chain.js. */
+import Buy from './Buy.astro';
+import { config, byHandle, big, priceText } from '../lib/site';
+const c = config.chain;
+const items = c.items.map((it, i) => {
+  const p = byHandle.get(it.product);
+  if (!p) throw new Error(`site.json: chain.items[${i}].product "${it.product}" is not a product in products.json`);
+  const desc = p.description.length > 190 ? p.description.slice(0, 187).replace(/\s+\S*$/, '') + '…' : p.description;
+  return { ...it, p, desc, label: it.label || p.title, img: p.images[0] };
+});
+const many = items.length > 1;
+const names = items.map((x) => x.p.title).join(' and the ');
+---
+<section class="chain" id="chain" data-chain data-autorotate={String(c.idleSway)} data-items={JSON.stringify(items.map((x) => ({ model: x.model, metal: x.metal })))}>
+  <div class="chain-stage" data-chain-stage tabindex="0" role="group" aria-roledescription="3D viewer"
+       aria-label={`3D models of the ${names}. Drag or use the arrow keys to turn one. ${many ? `Press ${items.map((_, i) => i + 1).join(' or ')} to open that piece's details.` : 'Press Enter to open its details.'}`}>
+    <div class="chain-bg" aria-hidden="true"></div>
+    <div class="chain-glow" aria-hidden="true"></div>
+    <div class="chain-fallbacks" aria-hidden="true">
+      {items.map((x) => <img class="chain-fallback" src={big(x.img.file)} alt="" loading="lazy" width="500" height="460" />)}
+    </div>
+    <canvas class="chain-canvas" data-chain-canvas aria-hidden="true"></canvas>
+
+    <div class="chain-head">
+      {c.eyebrow && <span class="stamp">{c.eyebrow}</span>}
+      {c.heading && <h2 class="display">{c.heading}</h2>}
+      {c.subtitle && <p>{c.subtitle}</p>}
+    </div>
+
+    <div class="chain-frame" data-chain-frame aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+
+    <div class="chain-hint">
+      <span class="stamp">{many ? 'Drag to turn · Tap one to inspect' : 'Drag to turn · Tap to inspect'}</span>
+      <div class="chain-picks">
+        {items.map((x, i) => <button type="button" class="chain-btn" data-chain-pick={i} aria-pressed="false" aria-controls={`chain-panel-${i}`}>{many ? x.label : 'Inspect'}</button>)}
+      </div>
+    </div>
+
+    {items.map((x, i) => (
+      <aside class="chain-panel" id={`chain-panel-${i}`} data-chain-panel={i} aria-label={`${x.p.title} details`}>
+        <div class="cp-top">
+          <a class="stamp cp-cat" href={`/?cat=${encodeURIComponent(x.p.type)}#shop`} data-filter={x.p.type}>{x.p.type} ↗</a>
+          <button type="button" class="cp-close" data-chain-close aria-label="Close details">✕</button>
+        </div>
+        {many && (
+          <div class="cp-tabs" role="group" aria-label="Choose a piece">
+            {items.map((y, j) => <button type="button" data-chain-pick={j} aria-pressed={String(i === j)}>{y.label}</button>)}
+          </div>
+        )}
+        <h3 class="display"><a href={`/product/${x.p.handle}/`}>{x.p.title}</a></h3>
+        <p class="cp-price" data-price>{priceText(x.p)}</p>
+        <p class="cp-desc">{x.desc}</p>
+        <dl class="cp-meta">
+          <div><dt>Category</dt><dd>{x.p.type}</dd></div>
+          {x.p.category && <div><dt>Type</dt><dd>{x.p.category}</dd></div>}
+          {x.p.options.map((o) => <div><dt>{o.name}</dt><dd>{o.values.join(' · ')}</dd></div>)}
+        </dl>
+        <Buy product={x.p} />
+        <a class="cp-more" href={`/product/${x.p.handle}/`}>Full details →</a>
+      </aside>
+    ))}
+
+    <noscript><style>.chain-fallbacks{display:flex!important}.chain-canvas{display:none}</style></noscript>
+  </div>
+</section>
+<script>
+  import '../scripts/chain.js';
+</script>

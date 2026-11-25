@@ -1,0 +1,64 @@
+---
+/* The lookbook is a floating field: every look in src/data/looks.json is a card drifting around the stage. One is in focus
+   (large, still, sharp); click or tap another and it takes the focus, and its details panel springs forward.
+   Positions are set by src/scripts/lookbook.ts; the motion is in src/styles/mgy.css. */
+import Buy from './Buy.astro';
+import { config, looks, small, money, json } from '../lib/site';
+const lb = config.lookbook;
+const looksJson = looks.map((l) => ({ n: l.name, t: l.tagline, front: l.front, back: l.back, sb: l.showsBack, ar: l.ar }));
+// a little variety in how each card drifts (deterministic, so the build is stable)
+const drift = (i: number) => ({
+  fx: 6 + ((i * 5) % 9), fy: 8 + ((i * 7) % 11), fr: (1 + ((i * 3) % 4) * 0.6) * (i % 2 ? 1 : -1),
+  dur: 7 + ((i * 11) % 6), del: -((i * 13) % 9),
+});
+const pad = (n: number) => String(n).padStart(2, '0');
+---
+<section class="lb" id="lookbook"><div class="in">
+  <div class="lb-head">
+    <h1 class="display">{lb.heading}</h1>
+    <p>{lb.subtitle}</p>
+  </div>
+  <div class="lf" id="lf">
+    <div class="lf-stage" id="lfStage" role="group" aria-label="Looks. Choose one to bring it into focus.">
+      {looks.map((l, i) => {
+        const d = drift(i);
+        return (
+          <div class="lc" data-card={i} style={`--ar:${l.ar};--fx:${d.fx}px;--fy:${d.fy}px;--fr:${d.fr}deg;--dur:${d.dur}s;--del:${d.del}s`}>
+            <div class="lc-fl">
+              <button class="lc-hit" type="button" data-pick={i} aria-label={`Look ${pad(l.n)}: ${l.name}. Bring into focus`}>
+                <img class="f" src={l.front} alt={`${l.name} look`} width={Math.round(l.ar * 1000)} height="1000" loading="lazy" decoding="async" />
+                {l.back && <img class="b" src={l.back} alt="" aria-hidden="true" width={Math.round(l.ar * 1000)} height="1000" loading="lazy" decoding="async" />}
+                <span class="lc-num" aria-hidden="true">{pad(l.n)}</span>
+              </button>
+              {l.back && <button class="tag stamp vt" type="button" data-flip={i}>VIEW BACK</button>}
+            </div>
+          </div>
+        );
+      })}
+      <button class="arr l" type="button" data-lk-step="-1" aria-label="Previous look">‹</button>
+      <button class="arr r" type="button" data-lk-step="1" aria-label="Next look">›</button>
+      <div class="lf-cap" aria-hidden="true"><span id="lkCap"></span><button type="button" data-to-panel tabindex="-1">Pieces ↓</button></div>
+    </div>
+    <aside class="panel lf-panel" id="lkPanel" aria-live="polite" aria-label="Pieces in this look">
+      <div class="p-top"><span class="stamp" id="lkNum"></span><h2 class="display" id="lkName"></h2><p id="lkTag"></p></div>
+      <div class="pieces" id="pieces">
+        {looks.map((l, i) => (
+          <div class="lp" data-look={i} data-count={l.pieces.length} data-total={money(l.pieces.reduce((a, p) => a + p.price, 0))} hidden>
+            {l.pieces.map((p) => (
+              <div class="piece" data-bk="0">
+                <div class="ph"><img src={small(p.images[0].file)} alt={p.images[0].alt} width="92" height="92" loading="lazy" /></div>
+                <div class="pi">
+                  <b><a href={`/product/${p.handle}/`}>{p.title}</a></b>
+                  <span class="pr" data-price>{p.priceVaries ? 'From ' : ''}{money(p.price)}</span>
+                  <Buy product={p} />
+                </div>
+              </div>
+            ))}
+          </div>
+        ))}
+      </div>
+      <button class="full" id="addLook" type="button" data-add-look>Add full look</button>
+    </aside>
+  </div>
+  <script id="looks-json" type="application/json" set:html={json(looksJson)} />
+</div></section>

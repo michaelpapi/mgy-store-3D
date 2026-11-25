@@ -1,0 +1,14 @@
+---
+import { config, igUrl } from '../lib/site';
+const c = config.contact;
+---
+<footer>
+  <img src="/brand/mgy-logo-sm.webp" alt={config.business.name} width="178" height="84" loading="lazy" />
+  <p>© {new Date().getFullYear()} {config.business.footer}</p>
+  <p class="foot-links">
+    <a href={igUrl} target="_blank" rel="noopener">Instagram @{c.instagram}</a>
+    {c.whatsapp && <a href={`https://wa.me/${c.whatsapp}`} target="_blank" rel="noopener">WhatsApp</a>}
+    {c.email && <a href={`mailto:${c.email}`}>{c.email}</a>}
+  </p>
+  <p class="foot-note">Orders are placed on WhatsApp. {config.shipping.note} Ships from {config.business.city}, handling about {config.shipping.handlingDays} business days.</p>
+</footer>

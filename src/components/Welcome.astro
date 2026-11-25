@@ -1,0 +1,19 @@
+---
+/* Data for the welcome gate; the screen itself is built by src/scripts/welcome.ts. */
+import { config, looks, json } from '../lib/site';
+const w = config.welcome;
+const data = {
+  launch: w.launch,
+  instagram: config.contact.instagram,
+  logo: '/brand/mgy-logo.webp',
+  video: w.video,
+  images: looks.slice(0, 7).map((l) => l.front), // photo flicker if the video cannot play
+  cutMs: 1500,
+  tints: ['#0a1a3a', '#4a1a14', '#101010', '#16301f'],
+  rememberSession: w.rememberSession,
+};
+---
+<script id="welcome-data" type="application/json" set:html={json(data)} />
+<script>
+  import '../scripts/welcome.ts';
+</script>

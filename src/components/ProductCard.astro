@@ -1,0 +1,21 @@
+---
+import Buy from './Buy.astro';
+import { small, priceText, lookNumberOf, hasBack, type Product } from '../lib/site';
+const { product: p, eager = false } = Astro.props as { product: Product; eager?: boolean };
+const look = lookNumberOf(p.handle);
+const img = p.images[0];
+---
+<article class="item" data-cat={p.type} data-bk="0">
+  <div class="ph">
+    <a href={`/product/${p.handle}/`} aria-label={p.title}>
+      <img src={small(img.file)} alt={img.alt} width="560" height={p.type === 'Jewelry' ? 315 : 700} loading={eager ? 'eager' : 'lazy'} decoding="async" />
+    </a>
+    {look > 0 && <a class="tag stamp" href={`/?look=${look}#lookbook`} data-look={look} title="See it in a look">LOOK {String(look).padStart(2, '0')}</a>}
+    {hasBack(p) && <button type="button" class="tag stamp flip" data-flip>VIEW BACK</button>}
+  </div>
+  <div class="pi">
+    <b><a href={`/product/${p.handle}/`}>{p.title}</a></b>
+    <span class="pr" data-price>{priceText(p)}</span>
+    <Buy product={p} />
+  </div>
+</article>

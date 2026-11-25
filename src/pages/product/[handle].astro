@@ -1,0 +1,54 @@
+---
+import Base from '../../layouts/Base.astro';
+import Buy from '../../components/Buy.astro';
+import { config, products, big, small, priceText, lookNumberOf, available } from '../../lib/site';
+import type { Product } from '../../lib/site';
+
+export function getStaticPaths() {
+  return products.map((product) => ({ params: { handle: product.handle }, props: { product } }));
+}
+const { product: p } = Astro.props as { product: Product };
+const look = lookNumberOf(p.handle);
+const origin = Astro.site ?? Astro.url;
+const abs = (path: string) => new URL(path, origin).href;
+const lowest = Math.min(...p.variants.map((v) => v.price)), highest = Math.max(...p.variants.map((v) => v.price));
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  name: p.title,
+  description: p.description,
+  image: p.images.map((i) => abs(big(i.file))),
+  brand: { '@type': 'Brand', name: config.business.name },
+  category: p.type,
+  offers: {
+    '@type': 'AggregateOffer', priceCurrency: 'USD', lowPrice: lowest, highPrice: highest, offerCount: p.variants.length,
+    availability: p.variants.some(available) ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock',
+  },
+};
+---
+<Base title={`${p.title} – ${config.business.name}`} description={p.seo || p.description} image={big(p.images[0].file)} jsonld={jsonld}>
+  <section class="pdp-wrap"><div class="in pdp" data-bk="0">
+    <div class="pdp-gal">
+      <div class="ph">
+        <img src={big(p.images[0].file)} alt={p.images[0].alt} width="1100" height={p.type === 'Jewelry' ? 619 : 1375} fetchpriority="high" />
+      </div>
+      {p.images.length > 1 && (
+        <div class="thumbs">
+          {p.images.map((img, i) => (
+            <button type="button" data-thumb={big(img.file)} aria-label={`Photo ${i + 1}`}><img src={small(img.file)} alt="" width="72" height="72" loading="lazy" /></button>
+          ))}
+        </div>
+      )}
+    </div>
+    <div class="pdp-info">
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> / <a href={`/?cat=${encodeURIComponent(p.type)}#shop`} data-filter={p.type}>{p.type}</a></nav>
+      <span class="stamp">{p.type.toUpperCase()}</span>
+      <h1 class="display">{p.title}</h1>
+      <p class="pr" data-price>{priceText(p)}</p>
+      <Buy product={p} />
+      {look > 0 && <p><a class="tag stamp" style="position:static" href={`/?look=${look}#lookbook`}>SEE IT IN A LOOK · LOOK {String(look).padStart(2, '0')}</a></p>}
+      <div class="rte"><p>{p.description}</p></div>
+      <p class="small ship-note">{config.shipping.note} Ships from {config.business.city}, handling about {config.shipping.handlingDays} business days.</p>
+    </div>
+  </div></section>
+</Base>

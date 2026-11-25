@@ -1,0 +1,5089 @@
+{
+ "currency": "USD",
+ "products": [
+  {
+   "handle": "dark-romance-tee",
+   "title": "Dark Romance Tee",
+   "type": "Tees",
+   "category": "T-Shirts",
+   "description": "A black oversized tee with a vintage two-figure print and MISGUIDED YUTES lettering on the front. A scribbled MGY runs across the back.",
+   "seo": "A black oversized tee with a vintage two-figure print and MISGUIDED YUTES lettering on the front. A scribbled MGY runs across the back.",
+   "tags": [
+    "Tees",
+    "Black",
+    "Graphic",
+    "Oversized"
+   ],
+   "price": 42,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-dark-romance-tee",
+     "alt": "Black oversized tee with a vintage two-figure print and MISGUIDED YUTES lettering"
+    },
+    {
+     "file": "mgy-dark-romance-tee-back",
+     "alt": "Back view of the black tee with a scribbled MGY across the shoulders"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "TEE-01-S",
+     "options": [
+      "S"
+     ],
+     "price": 42,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "TEE-01-M",
+     "options": [
+      "M"
+     ],
+     "price": 42,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "TEE-01-L",
+     "options": [
+      "L"
+     ],
+     "price": 42,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "TEE-01-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 42,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "TEE-01-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 42,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "fangs-tee",
+   "title": "Fangs Tee",
+   "type": "Tees",
+   "category": "T-Shirts",
+   "description": "A black oversized tee with MISGUIDED YUTES in red between a set of fangs. The back carries a line of colourful figures and a WORLDWIDE label.",
+   "seo": "A black oversized tee with MISGUIDED YUTES in red between a set of fangs. The back carries a line of colourful figures and a WORLDWIDE label.",
+   "tags": [
+    "Tees",
+    "Black",
+    "Graphic",
+    "Oversized"
+   ],
+   "price": 42,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-fangs-tee",
+     "alt": "Black oversized tee with red MISGUIDED YUTES lettering between fangs"
+    },
+    {
+     "file": "mgy-fangs-tee-back",
+     "alt": "Back view of the black tee with a row of colourful figures and a MISGUIDED YUTES WORLDWIDE label"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "TEE-02-S",
+     "options": [
+      "S"
+     ],
+     "price": 42,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "TEE-02-M",
+     "options": [
+      "M"
+     ],
+     "price": 42,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "TEE-02-L",
+     "options": [
+      "L"
+     ],
+     "price": 42,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "TEE-02-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 42,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "TEE-02-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 42,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "brackets-tee",
+   "title": "Brackets Tee",
+   "type": "Tees",
+   "category": "T-Shirts",
+   "description": "A white tee with MISGUIDED YUTES set inside black corner brackets on the chest. The back is a collage of drawn faces.",
+   "seo": "A white tee with MISGUIDED YUTES set inside black corner brackets on the chest. The back is a collage of drawn faces.",
+   "tags": [
+    "Tees",
+    "White",
+    "Graphic",
+    "Oversized"
+   ],
+   "price": 40,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-brackets-tee",
+     "alt": "White tee with MISGUIDED YUTES inside black corner brackets on the chest"
+    },
+    {
+     "file": "mgy-brackets-tee-back",
+     "alt": "Back view of the white tee with a collage of drawn faces"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "TEE-03-S",
+     "options": [
+      "S"
+     ],
+     "price": 40,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "TEE-03-M",
+     "options": [
+      "M"
+     ],
+     "price": 40,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "TEE-03-L",
+     "options": [
+      "L"
+     ],
+     "price": 40,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "TEE-03-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 40,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "TEE-03-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 40,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "crown-tee",
+   "title": "Crown Tee",
+   "type": "Tees",
+   "category": "T-Shirts",
+   "description": "A tee with a crowned, masked head over the MISGUIDED YUTES name on the chest. The white one has a green X mark on the back. Available in White and Cream.",
+   "seo": "A tee with a crowned, masked head over the MISGUIDED YUTES name on the chest. The white one has a green X mark on the back. Available in White and Cream.",
+   "tags": [
+    "Tees",
+    "White",
+    "Cream",
+    "Graphic",
+    "Oversized"
+   ],
+   "price": 42,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      "White",
+      "Cream"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-crown-tee",
+     "alt": "Crown tee in white with a crowned masked head and MISGUIDED YUTES on the chest"
+    },
+    {
+     "file": "mgy-crown-tee-back",
+     "alt": "Crown tee in white, back view with a green X mark"
+    },
+    {
+     "file": "mgy-crown-tee-cream",
+     "alt": "Crown tee in cream with a crowned masked head and MISGUIDED YUTES on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "TEE-04-WHI-S",
+     "options": [
+      "S",
+      "White"
+     ],
+     "price": 42,
+     "stock": 6,
+     "image": "mgy-crown-tee"
+    },
+    {
+     "sku": "TEE-04-WHI-M",
+     "options": [
+      "M",
+      "White"
+     ],
+     "price": 42,
+     "stock": 10,
+     "image": "mgy-crown-tee"
+    },
+    {
+     "sku": "TEE-04-WHI-L",
+     "options": [
+      "L",
+      "White"
+     ],
+     "price": 42,
+     "stock": 10,
+     "image": "mgy-crown-tee"
+    },
+    {
+     "sku": "TEE-04-WHI-XL",
+     "options": [
+      "XL",
+      "White"
+     ],
+     "price": 42,
+     "stock": 8,
+     "image": "mgy-crown-tee"
+    },
+    {
+     "sku": "TEE-04-WHI-XXL",
+     "options": [
+      "XXL",
+      "White"
+     ],
+     "price": 42,
+     "stock": 4,
+     "image": "mgy-crown-tee"
+    },
+    {
+     "sku": "TEE-04-CRE-S",
+     "options": [
+      "S",
+      "Cream"
+     ],
+     "price": 42,
+     "stock": 6,
+     "image": "mgy-crown-tee-cream"
+    },
+    {
+     "sku": "TEE-04-CRE-M",
+     "options": [
+      "M",
+      "Cream"
+     ],
+     "price": 42,
+     "stock": 10,
+     "image": "mgy-crown-tee-cream"
+    },
+    {
+     "sku": "TEE-04-CRE-L",
+     "options": [
+      "L",
+      "Cream"
+     ],
+     "price": 42,
+     "stock": 10,
+     "image": "mgy-crown-tee-cream"
+    },
+    {
+     "sku": "TEE-04-CRE-XL",
+     "options": [
+      "XL",
+      "Cream"
+     ],
+     "price": 42,
+     "stock": 8,
+     "image": "mgy-crown-tee-cream"
+    },
+    {
+     "sku": "TEE-04-CRE-XXL",
+     "options": [
+      "XXL",
+      "Cream"
+     ],
+     "price": 42,
+     "stock": 4,
+     "image": "mgy-crown-tee-cream"
+    }
+   ]
+  },
+  {
+   "handle": "tape-tee",
+   "title": "Tape Tee",
+   "type": "Tees",
+   "category": "T-Shirts",
+   "description": "A white tee with a red caution-tape and hands panel across the chest. A black X mark sits on the back.",
+   "seo": "A white tee with a red caution-tape and hands panel across the chest. A black X mark sits on the back.",
+   "tags": [
+    "Tees",
+    "White",
+    "Graphic",
+    "Oversized"
+   ],
+   "price": 42,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-tape-tee",
+     "alt": "White tee with a black panel of red caution tape and hands across the chest"
+    },
+    {
+     "file": "mgy-tape-tee-back",
+     "alt": "Back view of the white tee with a black X mark"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "TEE-05-S",
+     "options": [
+      "S"
+     ],
+     "price": 42,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "TEE-05-M",
+     "options": [
+      "M"
+     ],
+     "price": 42,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "TEE-05-L",
+     "options": [
+      "L"
+     ],
+     "price": 42,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "TEE-05-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 42,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "TEE-05-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 42,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "warning-tee",
+   "title": "Warning Tee",
+   "type": "Tees",
+   "category": "T-Shirts",
+   "description": "A white off-the-shoulder tee with a yellow warning sign reading I love MISGUIDED YUTES. A black bubble MGY with hearts sits on the back.",
+   "seo": "A white off-the-shoulder tee with a yellow warning sign reading I love MISGUIDED YUTES. A black bubble MGY with hearts sits on the back.",
+   "tags": [
+    "Tees",
+    "White",
+    "Graphic",
+    "Off-shoulder"
+   ],
+   "price": 42,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-warning-tee",
+     "alt": "White off-the-shoulder tee with a warning sign reading I heart MISGUIDED YUTES"
+    },
+    {
+     "file": "mgy-warning-tee-back",
+     "alt": "Back view of the white tee with a black bubble MGY and hearts"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "TEE-06-S",
+     "options": [
+      "S"
+     ],
+     "price": 42,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "TEE-06-M",
+     "options": [
+      "M"
+     ],
+     "price": 42,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "TEE-06-L",
+     "options": [
+      "L"
+     ],
+     "price": 42,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "TEE-06-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 42,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "TEE-06-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 42,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "blob-tee",
+   "title": "Blob Tee",
+   "type": "Tees",
+   "category": "T-Shirts",
+   "description": "A cream oversized tee with MISGUIDED YUTES in black blob lettering across the chest. A DJ at the decks is printed on the back.",
+   "seo": "A cream oversized tee with MISGUIDED YUTES in black blob lettering across the chest. A DJ at the decks is printed on the back.",
+   "tags": [
+    "Tees",
+    "Cream",
+    "Graphic",
+    "Oversized"
+   ],
+   "price": 42,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-blob-tee",
+     "alt": "Cream oversized tee with MISGUIDED YUTES in black blob lettering"
+    },
+    {
+     "file": "mgy-blob-tee-back",
+     "alt": "Back view of the cream tee with a DJ at the decks print"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "TEE-07-S",
+     "options": [
+      "S"
+     ],
+     "price": 42,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "TEE-07-M",
+     "options": [
+      "M"
+     ],
+     "price": 42,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "TEE-07-L",
+     "options": [
+      "L"
+     ],
+     "price": 42,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "TEE-07-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 42,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "TEE-07-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 42,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "lips-tee",
+   "title": "Lips Tee",
+   "type": "Tees",
+   "category": "T-Shirts",
+   "description": "A white off-the-shoulder tee covered in red lips with an MGY in the middle. A black bubble MGY with hearts sits on the back.",
+   "seo": "A white off-the-shoulder tee covered in red lips with an MGY in the middle. A black bubble MGY with hearts sits on the back.",
+   "tags": [
+    "Tees",
+    "White",
+    "Graphic",
+    "Off-shoulder"
+   ],
+   "price": 42,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-lips-tee",
+     "alt": "White off-the-shoulder tee covered in red lips with an MGY mark"
+    },
+    {
+     "file": "mgy-lips-tee-back",
+     "alt": "Back view of the white tee with a black bubble MGY and hearts"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "TEE-08-S",
+     "options": [
+      "S"
+     ],
+     "price": 42,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "TEE-08-M",
+     "options": [
+      "M"
+     ],
+     "price": 42,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "TEE-08-L",
+     "options": [
+      "L"
+     ],
+     "price": 42,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "TEE-08-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 42,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "TEE-08-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 42,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "flower-girl-tee",
+   "title": "Flower Girl Tee",
+   "type": "Tees",
+   "category": "T-Shirts",
+   "description": "A white off-the-shoulder tee with an ink drawing of a woman holding a flower.",
+   "seo": "A white off-the-shoulder tee with an ink drawing of a woman holding a flower.",
+   "tags": [
+    "Tees",
+    "White",
+    "Graphic",
+    "Off-shoulder"
+   ],
+   "price": 42,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-flower-girl-tee",
+     "alt": "White off-the-shoulder tee with an ink drawing of a woman holding a flower"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "TEE-09-S",
+     "options": [
+      "S"
+     ],
+     "price": 42,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "TEE-09-M",
+     "options": [
+      "M"
+     ],
+     "price": 42,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "TEE-09-L",
+     "options": [
+      "L"
+     ],
+     "price": 42,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "TEE-09-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 42,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "TEE-09-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 42,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "pink-block-crop-tee",
+   "title": "Pink Block Crop Tee",
+   "type": "Tees",
+   "category": "T-Shirts",
+   "description": "A white cropped tee with blue MISGUIDED YUTES lettering over a pink block with a black X. A small gold crest sits on the back.",
+   "seo": "A white cropped tee with blue MISGUIDED YUTES lettering over a pink block with a black X. A small gold crest sits on the back.",
+   "tags": [
+    "Tees",
+    "White",
+    "Cropped",
+    "Graphic"
+   ],
+   "price": 38,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-pink-block-crop-tee",
+     "alt": "White cropped tee with blue MISGUIDED YUTES lettering over a pink block with a black X"
+    },
+    {
+     "file": "mgy-pink-block-crop-tee-back",
+     "alt": "Back view of the white cropped tee with a small gold crest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "CRO-01-S",
+     "options": [
+      "S"
+     ],
+     "price": 38,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "CRO-01-M",
+     "options": [
+      "M"
+     ],
+     "price": 38,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "CRO-01-L",
+     "options": [
+      "L"
+     ],
+     "price": 38,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "CRO-01-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 38,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "CRO-01-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 38,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "pretty-mgy-crop-tee",
+   "title": "Pretty MGY Crop Tee",
+   "type": "Tees",
+   "category": "T-Shirts",
+   "description": "A white cropped tee with PRETTY MGY in black and pink across the chest. A film clapperboard reading MISGUIDED YUTES is printed on the back.",
+   "seo": "A white cropped tee with PRETTY MGY in black and pink across the chest. A film clapperboard reading MISGUIDED YUTES is printed on the back.",
+   "tags": [
+    "Tees",
+    "White",
+    "Cropped",
+    "Graphic"
+   ],
+   "price": 38,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-pretty-mgy-crop-tee",
+     "alt": "White cropped tee with PRETTY MGY in black and pink across the chest"
+    },
+    {
+     "file": "mgy-pretty-mgy-crop-tee-back",
+     "alt": "Back view of the white cropped tee with a MISGUIDED YUTES clapperboard"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "CRO-02-S",
+     "options": [
+      "S"
+     ],
+     "price": 38,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "CRO-02-M",
+     "options": [
+      "M"
+     ],
+     "price": 38,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "CRO-02-L",
+     "options": [
+      "L"
+     ],
+     "price": 38,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "CRO-02-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 38,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "CRO-02-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 38,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "gothic-hoodie",
+   "title": "Gothic Hoodie",
+   "type": "Hoodies",
+   "category": "Hoodies",
+   "description": "A black hoodie with MISGUIDED YUTES in gothic lettering across the chest.",
+   "seo": "A black hoodie with MISGUIDED YUTES in gothic lettering across the chest.",
+   "tags": [
+    "Hoodies",
+    "Black",
+    "Graphic"
+   ],
+   "price": 85,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-gothic-hoodie",
+     "alt": "Black hoodie with MISGUIDED YUTES in gothic lettering on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "HDL-01-S",
+     "options": [
+      "S"
+     ],
+     "price": 85,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "HDL-01-M",
+     "options": [
+      "M"
+     ],
+     "price": 85,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "HDL-01-L",
+     "options": [
+      "L"
+     ],
+     "price": 85,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "HDL-01-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 85,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "HDL-01-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 85,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "skate-hoodie",
+   "title": "Skate Hoodie",
+   "type": "Hoodies",
+   "category": "Hoodies",
+   "description": "A cream hoodie with a red skateboard graphic on the chest and a portrait print on the back.",
+   "seo": "A cream hoodie with a red skateboard graphic on the chest and a portrait print on the back.",
+   "tags": [
+    "Hoodies",
+    "Cream",
+    "Graphic"
+   ],
+   "price": 85,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-skate-hoodie",
+     "alt": "Cream hoodie with a red skateboard graphic on the chest"
+    },
+    {
+     "file": "mgy-skate-hoodie-back",
+     "alt": "Back view of the cream hoodie with a portrait print"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "HDL-02-S",
+     "options": [
+      "S"
+     ],
+     "price": 85,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "HDL-02-M",
+     "options": [
+      "M"
+     ],
+     "price": 85,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "HDL-02-L",
+     "options": [
+      "L"
+     ],
+     "price": 85,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "HDL-02-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 85,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "HDL-02-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 85,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "stamp-hoodie",
+   "title": "Stamp Hoodie",
+   "type": "Hoodies",
+   "category": "Hoodies",
+   "description": "A cream hoodie with a black stamped MISGUIDED YUTES print on the chest.",
+   "seo": "A cream hoodie with a black stamped MISGUIDED YUTES print on the chest.",
+   "tags": [
+    "Hoodies",
+    "Cream",
+    "Graphic"
+   ],
+   "price": 85,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-stamp-hoodie",
+     "alt": "Cream hoodie with a black stamped MISGUIDED YUTES print on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "HDL-03-S",
+     "options": [
+      "S"
+     ],
+     "price": 85,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "HDL-03-M",
+     "options": [
+      "M"
+     ],
+     "price": 85,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "HDL-03-L",
+     "options": [
+      "L"
+     ],
+     "price": 85,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "HDL-03-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 85,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "HDL-03-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 85,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "mask-hoodie",
+   "title": "Mask Hoodie",
+   "type": "Hoodies",
+   "category": "Hoodies",
+   "description": "A black hoodie with a white masked-face graphic and green MISGUIDED YUTES text on the chest.",
+   "seo": "A black hoodie with a white masked-face graphic and green MISGUIDED YUTES text on the chest.",
+   "tags": [
+    "Hoodies",
+    "Black",
+    "Graphic"
+   ],
+   "price": 85,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-mask-hoodie",
+     "alt": "Black hoodie with a white masked-face graphic and green MISGUIDED YUTES text"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "HDL-04-S",
+     "options": [
+      "S"
+     ],
+     "price": 85,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "HDL-04-M",
+     "options": [
+      "M"
+     ],
+     "price": 85,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "HDL-04-L",
+     "options": [
+      "L"
+     ],
+     "price": 85,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "HDL-04-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 85,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "HDL-04-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 85,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "flame-track-pants",
+   "title": "Flame Track Pants",
+   "type": "Bottoms",
+   "category": "Pants",
+   "description": "Black track pants with white piping, flame artwork and a vertical MGY down the leg, finished with drawcord hems.",
+   "seo": "Black track pants with white piping, flame artwork and a vertical MGY down the leg, finished with drawcord hems.",
+   "tags": [
+    "Bottoms",
+    "Black",
+    "Track pants",
+    "Graphic"
+   ],
+   "price": 72,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-flame-track-pants",
+     "alt": "Black track pants with white piping, flame artwork and a vertical MGY down the leg"
+    },
+    {
+     "file": "mgy-flame-track-pants-back",
+     "alt": "Back view of the black track pants with white piping"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PNT-01-S",
+     "options": [
+      "S"
+     ],
+     "price": 72,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "PNT-01-M",
+     "options": [
+      "M"
+     ],
+     "price": 72,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PNT-01-L",
+     "options": [
+      "L"
+     ],
+     "price": 72,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PNT-01-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 72,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "PNT-01-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 72,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "pink-wash-wide-leg",
+   "title": "Pink Wash Wide-Leg",
+   "type": "Bottoms",
+   "category": "Pants",
+   "description": "Wide-leg pants in washed pink with MISGUIDED YUTES printed down the front in tall lettering.",
+   "seo": "Wide-leg pants in washed pink with MISGUIDED YUTES printed down the front in tall lettering.",
+   "tags": [
+    "Bottoms",
+    "Pink",
+    "Wide leg",
+    "Graphic"
+   ],
+   "price": 75,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-pink-wash-wide-leg",
+     "alt": "Washed pink wide-leg pants with MISGUIDED YUTES printed down the front"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PNT-02-S",
+     "options": [
+      "S"
+     ],
+     "price": 75,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "PNT-02-M",
+     "options": [
+      "M"
+     ],
+     "price": 75,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PNT-02-L",
+     "options": [
+      "L"
+     ],
+     "price": 75,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PNT-02-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 75,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "PNT-02-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 75,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "crest-wide-leg-sweats",
+   "title": "Crest Wide-Leg Sweats",
+   "type": "Bottoms",
+   "category": "Pants",
+   "description": "Black wide-leg sweatpants with a gold crest at the hip and a vertical MGY down the leg.",
+   "seo": "Black wide-leg sweatpants with a gold crest at the hip and a vertical MGY down the leg.",
+   "tags": [
+    "Bottoms",
+    "Black",
+    "Wide leg",
+    "Sweatpants",
+    "Graphic"
+   ],
+   "price": 72,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-crest-wide-leg-sweats",
+     "alt": "Black wide-leg sweatpants with a gold crest at the hip and a vertical MGY down the leg"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PNT-03-S",
+     "options": [
+      "S"
+     ],
+     "price": 72,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "PNT-03-M",
+     "options": [
+      "M"
+     ],
+     "price": 72,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PNT-03-L",
+     "options": [
+      "L"
+     ],
+     "price": 72,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PNT-03-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 72,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "PNT-03-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 72,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "silhouette-sweats",
+   "title": "Silhouette Sweats",
+   "type": "Bottoms",
+   "category": "Pants",
+   "description": "Black wide-leg sweatpants with white hand and shoe silhouettes down the leg and a star at the hip.",
+   "seo": "Black wide-leg sweatpants with white hand and shoe silhouettes down the leg and a star at the hip.",
+   "tags": [
+    "Bottoms",
+    "Black",
+    "Wide leg",
+    "Sweatpants",
+    "Graphic"
+   ],
+   "price": 72,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-silhouette-sweats",
+     "alt": "Black wide-leg sweatpants with white hand and shoe silhouettes and a star at the hip"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PNT-04-S",
+     "options": [
+      "S"
+     ],
+     "price": 72,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "PNT-04-M",
+     "options": [
+      "M"
+     ],
+     "price": 72,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PNT-04-L",
+     "options": [
+      "L"
+     ],
+     "price": 72,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PNT-04-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 72,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "PNT-04-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 72,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "bubble-mgy-sweats",
+   "title": "Bubble MGY Sweats",
+   "type": "Bottoms",
+   "category": "Pants",
+   "description": "Black wide-leg sweatpants with a white bubble-letter MGY and hearts on the thigh.",
+   "seo": "Black wide-leg sweatpants with a white bubble-letter MGY and hearts on the thigh.",
+   "tags": [
+    "Bottoms",
+    "Black",
+    "Wide leg",
+    "Sweatpants",
+    "Graphic"
+   ],
+   "price": 72,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-bubble-mgy-sweats",
+     "alt": "Black wide-leg sweatpants with a white bubble-letter MGY and hearts on the thigh"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PNT-05-S",
+     "options": [
+      "S"
+     ],
+     "price": 72,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "PNT-05-M",
+     "options": [
+      "M"
+     ],
+     "price": 72,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PNT-05-L",
+     "options": [
+      "L"
+     ],
+     "price": 72,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PNT-05-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 72,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "PNT-05-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 72,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "x-track-pants",
+   "title": "X Track Pants",
+   "type": "Bottoms",
+   "category": "Pants",
+   "description": "Black track pants with white piping and white X marks down each leg.",
+   "seo": "Black track pants with white piping and white X marks down each leg.",
+   "tags": [
+    "Bottoms",
+    "Black",
+    "Track pants",
+    "Graphic"
+   ],
+   "price": 72,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-x-track-pants",
+     "alt": "Black track pants with white piping and white X marks down each leg"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PNT-06-S",
+     "options": [
+      "S"
+     ],
+     "price": 72,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "PNT-06-M",
+     "options": [
+      "M"
+     ],
+     "price": 72,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PNT-06-L",
+     "options": [
+      "L"
+     ],
+     "price": 72,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PNT-06-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 72,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "PNT-06-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 72,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "pleated-mini-skirt",
+   "title": "Pleated Mini Skirt",
+   "type": "Bottoms",
+   "category": "Skirts",
+   "description": "A white pleated mini skirt with a small MGY mark at the hem.",
+   "seo": "A white pleated mini skirt with a small MGY mark at the hem.",
+   "tags": [
+    "Bottoms",
+    "White",
+    "Skirt",
+    "Pleated"
+   ],
+   "price": 48,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-pleated-mini-skirt",
+     "alt": "White pleated mini skirt with a small MGY mark at the hem"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "SKT-01-S",
+     "options": [
+      "S"
+     ],
+     "price": 48,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "SKT-01-M",
+     "options": [
+      "M"
+     ],
+     "price": 48,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "SKT-01-L",
+     "options": [
+      "L"
+     ],
+     "price": 48,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "SKT-01-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 48,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "SKT-01-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 48,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "crown-trucker-cap",
+   "title": "MGY Crown Trucker Cap",
+   "type": "Caps",
+   "category": "Trucker Hats",
+   "description": "A foam-front trucker cap with the crowned MGY script in black on white and a mesh back. Available in Red, Green, Gold, Gold & Red and Black. One size.",
+   "seo": "A foam-front trucker cap with the crowned MGY script in black on white and a mesh back. Available in Red, Green, Gold, Gold & Red and Black. One size.",
+   "tags": [
+    "Caps",
+    "Trucker",
+    "Mesh",
+    "Logo"
+   ],
+   "price": 32,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Red",
+      "Green",
+      "Gold",
+      "Gold & Red",
+      "Black"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-crown-trucker-cap-red",
+     "alt": "Red trucker cap with the crowned MGY script in black on a white front"
+    },
+    {
+     "file": "mgy-crown-trucker-cap-green",
+     "alt": "Green trucker cap with the crowned MGY script in black on a white front"
+    },
+    {
+     "file": "mgy-crown-trucker-cap-gold",
+     "alt": "Gold trucker cap with the crowned MGY script in black on a white front"
+    },
+    {
+     "file": "mgy-crown-trucker-cap-gold-red",
+     "alt": "Gold & Red trucker cap with the crowned MGY script in black on a white front"
+    },
+    {
+     "file": "mgy-crown-trucker-cap-black",
+     "alt": "Black trucker cap with the crowned MGY script in black on a white front"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "CAP-01-RED0",
+     "options": [
+      "Red"
+     ],
+     "price": 32,
+     "stock": 12,
+     "image": "mgy-crown-trucker-cap-red"
+    },
+    {
+     "sku": "CAP-01-GRE1",
+     "options": [
+      "Green"
+     ],
+     "price": 32,
+     "stock": 12,
+     "image": "mgy-crown-trucker-cap-green"
+    },
+    {
+     "sku": "CAP-01-GOL2",
+     "options": [
+      "Gold"
+     ],
+     "price": 32,
+     "stock": 12,
+     "image": "mgy-crown-trucker-cap-gold"
+    },
+    {
+     "sku": "CAP-01-GOL3",
+     "options": [
+      "Gold & Red"
+     ],
+     "price": 32,
+     "stock": 12,
+     "image": "mgy-crown-trucker-cap-gold-red"
+    },
+    {
+     "sku": "CAP-01-BLA4",
+     "options": [
+      "Black"
+     ],
+     "price": 32,
+     "stock": 12,
+     "image": "mgy-crown-trucker-cap-black"
+    }
+   ]
+  },
+  {
+   "handle": "crest-trucker-cap",
+   "title": "MGY Crest Trucker Cap",
+   "type": "Caps",
+   "category": "Trucker Hats",
+   "description": "A black mesh trucker cap with a white foam front carrying the gold winged crest. One size.",
+   "seo": "A black mesh trucker cap with a white foam front carrying the gold winged crest. One size.",
+   "tags": [
+    "Caps",
+    "Trucker",
+    "Mesh",
+    "Black",
+    "Crest"
+   ],
+   "price": 38,
+   "priceVaries": false,
+   "options": [],
+   "images": [
+    {
+     "file": "mgy-crest-trucker-cap",
+     "alt": "Black mesh trucker cap with a white foam front and a gold winged crest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "CAP-02",
+     "options": [],
+     "price": 38,
+     "stock": 12,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "funnel-neck-puffer",
+   "title": "Funnel Neck Puffer",
+   "type": "Puffers",
+   "category": "Puffer Jackets",
+   "description": "A black puffer with a wide funnel collar, elasticated cuffs and hem, and a full zip front. The MGY oval sits tonal on the chest.",
+   "seo": "A black puffer with a wide funnel collar, elasticated cuffs and hem, and a full zip front. The MGY oval sits tonal on the chest.",
+   "tags": [
+    "Puffers",
+    "Black",
+    "Outerwear",
+    "Tonal logo"
+   ],
+   "price": 150,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-funnel-neck-puffer",
+     "alt": "Black funnel neck puffer jacket with a tonal MGY oval logo on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PUF-01-S",
+     "options": [
+      "S"
+     ],
+     "price": 150,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "PUF-01-M",
+     "options": [
+      "M"
+     ],
+     "price": 150,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PUF-01-L",
+     "options": [
+      "L"
+     ],
+     "price": 150,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PUF-01-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 150,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "PUF-01-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 150,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "detachable-hood-puffer",
+   "title": "Detachable Hood Puffer",
+   "type": "Puffers",
+   "category": "Puffer Jackets",
+   "description": "A black puffer with a removable hood, zip pockets and a clean quilted body. The white MGY oval sits on the chest and the script MGY mark runs down the sleeve.",
+   "seo": "A black puffer with a removable hood, zip pockets and a clean quilted body. The white MGY oval sits on the chest and the script MGY mark runs down the...",
+   "tags": [
+    "Puffers",
+    "Black",
+    "Hooded",
+    "Outerwear",
+    "Logo"
+   ],
+   "price": 175,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-detachable-hood-puffer",
+     "alt": "Black puffer jacket with a detachable hood, white MGY oval logo on the chest and MGY script mark on the sleeve"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PUF-02-S",
+     "options": [
+      "S"
+     ],
+     "price": 175,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "PUF-02-M",
+     "options": [
+      "M"
+     ],
+     "price": 175,
+     "stock": 11,
+     "image": null
+    },
+    {
+     "sku": "PUF-02-L",
+     "options": [
+      "L"
+     ],
+     "price": 175,
+     "stock": 11,
+     "image": null
+    },
+    {
+     "sku": "PUF-02-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 175,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "PUF-02-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 175,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "cropped-hood-puffer",
+   "title": "Cropped Hood Puffer",
+   "type": "Puffers",
+   "category": "Puffer Jackets",
+   "description": "A cropped, boxy hooded puffer in black. Tonal MGY oval on the chest and a small MGY mark on the sleeve.",
+   "seo": "A cropped, boxy hooded puffer in black. Tonal MGY oval on the chest and a small MGY mark on the sleeve.",
+   "tags": [
+    "Puffers",
+    "Black",
+    "Hooded",
+    "Cropped",
+    "Outerwear"
+   ],
+   "price": 160,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-cropped-hood-puffer",
+     "alt": "Black cropped hooded puffer jacket with a tonal MGY logo on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PUF-03-S",
+     "options": [
+      "S"
+     ],
+     "price": 160,
+     "stock": 5,
+     "image": null
+    },
+    {
+     "sku": "PUF-03-M",
+     "options": [
+      "M"
+     ],
+     "price": 160,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "PUF-03-L",
+     "options": [
+      "L"
+     ],
+     "price": 160,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "PUF-03-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 160,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "PUF-03-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 160,
+     "stock": 3,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "brown-expedition-puffer",
+   "title": "Brown Expedition Puffer",
+   "type": "Puffers",
+   "category": "Puffer Jackets",
+   "description": "A heavyweight hooded puffer in deep brown with a snap-and-zip front. White MGY oval on the chest and the MGY script mark on the sleeve.",
+   "seo": "A heavyweight hooded puffer in deep brown with a snap-and-zip front. White MGY oval on the chest and the MGY script mark on the sleeve.",
+   "tags": [
+    "Puffers",
+    "Brown",
+    "Hooded",
+    "Outerwear",
+    "Logo"
+   ],
+   "price": 185,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-brown-expedition-puffer",
+     "alt": "Brown hooded puffer jacket with a white MGY oval logo on the chest and MGY script mark on the sleeve"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PUF-04-S",
+     "options": [
+      "S"
+     ],
+     "price": 185,
+     "stock": 5,
+     "image": null
+    },
+    {
+     "sku": "PUF-04-M",
+     "options": [
+      "M"
+     ],
+     "price": 185,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "PUF-04-L",
+     "options": [
+      "L"
+     ],
+     "price": 185,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "PUF-04-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 185,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "PUF-04-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 185,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "chocolate-hooded-puffer",
+   "title": "Chocolate Hooded Puffer",
+   "type": "Puffers",
+   "category": "Puffer Jackets",
+   "description": "A short, hooded puffer in chocolate brown with drawcord hem toggles. The MGY oval sits tonal on the chest.",
+   "seo": "A short, hooded puffer in chocolate brown with drawcord hem toggles. The MGY oval sits tonal on the chest.",
+   "tags": [
+    "Puffers",
+    "Brown",
+    "Hooded",
+    "Outerwear",
+    "Tonal logo"
+   ],
+   "price": 155,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-chocolate-hooded-puffer",
+     "alt": "Chocolate brown hooded puffer jacket with a tonal MGY oval logo on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PUF-05-S",
+     "options": [
+      "S"
+     ],
+     "price": 155,
+     "stock": 5,
+     "image": null
+    },
+    {
+     "sku": "PUF-05-M",
+     "options": [
+      "M"
+     ],
+     "price": 155,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "PUF-05-L",
+     "options": [
+      "L"
+     ],
+     "price": 155,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "PUF-05-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 155,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "PUF-05-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 155,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "layered-hood-puffer",
+   "title": "Layered Hood Puffer",
+   "type": "Puffers",
+   "category": "Puffer Jackets",
+   "description": "A black puffer with a layered, structured hood and a full zip front. The MGY oval sits tonal on the chest.",
+   "seo": "A black puffer with a layered, structured hood and a full zip front. The MGY oval sits tonal on the chest.",
+   "tags": [
+    "Puffers",
+    "Black",
+    "Hooded",
+    "Outerwear",
+    "Tonal logo"
+   ],
+   "price": 170,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-layered-hood-puffer",
+     "alt": "Black puffer jacket with a layered hood and a tonal MGY oval logo on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PUF-06-S",
+     "options": [
+      "S"
+     ],
+     "price": 170,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "PUF-06-M",
+     "options": [
+      "M"
+     ],
+     "price": 170,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PUF-06-L",
+     "options": [
+      "L"
+     ],
+     "price": 170,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PUF-06-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 170,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "PUF-06-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 170,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "boxy-hooded-puffer",
+   "title": "Boxy Hooded Puffer",
+   "type": "Puffers",
+   "category": "Puffer Jackets",
+   "description": "A boxy black hooded puffer with a hidden zip placket. The white MGY oval sits low on the chest.",
+   "seo": "A boxy black hooded puffer with a hidden zip placket. The white MGY oval sits low on the chest.",
+   "tags": [
+    "Puffers",
+    "Black",
+    "Hooded",
+    "Outerwear",
+    "Logo"
+   ],
+   "price": 160,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-boxy-hooded-puffer",
+     "alt": "Black boxy hooded puffer jacket with a white MGY oval logo on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PUF-07-S",
+     "options": [
+      "S"
+     ],
+     "price": 160,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "PUF-07-M",
+     "options": [
+      "M"
+     ],
+     "price": 160,
+     "stock": 12,
+     "image": null
+    },
+    {
+     "sku": "PUF-07-L",
+     "options": [
+      "L"
+     ],
+     "price": 160,
+     "stock": 12,
+     "image": null
+    },
+    {
+     "sku": "PUF-07-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 160,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PUF-07-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 160,
+     "stock": 5,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "quilted-zip-puffer",
+   "title": "Quilted Zip Puffer",
+   "type": "Puffers",
+   "category": "Puffer Jackets",
+   "description": "A lighter quilted puffer in black with a hood and zip front, finished with an MGY patch logo on the chest.",
+   "seo": "A lighter quilted puffer in black with a hood and zip front, finished with an MGY patch logo on the chest.",
+   "tags": [
+    "Puffers",
+    "Black",
+    "Hooded",
+    "Quilted",
+    "Outerwear",
+    "Logo"
+   ],
+   "price": 140,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-quilted-zip-puffer",
+     "alt": "Black quilted hooded puffer jacket with an MGY patch logo on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PUF-08-S",
+     "options": [
+      "S"
+     ],
+     "price": 140,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "PUF-08-M",
+     "options": [
+      "M"
+     ],
+     "price": 140,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PUF-08-L",
+     "options": [
+      "L"
+     ],
+     "price": 140,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PUF-08-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 140,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "PUF-08-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 140,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "drawcord-crop-puffer",
+   "title": "Drawcord Crop Puffer",
+   "type": "Puffers",
+   "category": "Puffer Jackets",
+   "description": "A cropped black puffer with a high collar and a drawcord hem that cinches the shape. Tonal MGY oval on the chest.",
+   "seo": "A cropped black puffer with a high collar and a drawcord hem that cinches the shape. Tonal MGY oval on the chest.",
+   "tags": [
+    "Puffers",
+    "Black",
+    "Cropped",
+    "Outerwear",
+    "Tonal logo"
+   ],
+   "price": 150,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-drawcord-crop-puffer",
+     "alt": "Black cropped puffer jacket with a high collar, drawcord hem and tonal MGY logo"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PUF-09-S",
+     "options": [
+      "S"
+     ],
+     "price": 150,
+     "stock": 5,
+     "image": null
+    },
+    {
+     "sku": "PUF-09-M",
+     "options": [
+      "M"
+     ],
+     "price": 150,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "PUF-09-L",
+     "options": [
+      "L"
+     ],
+     "price": 150,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "PUF-09-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 150,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "PUF-09-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 150,
+     "stock": 3,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "snap-front-crop-puffer",
+   "title": "Snap-Front Crop Puffer",
+   "type": "Puffers",
+   "category": "Puffer Jackets",
+   "description": "A cropped hooded puffer in black with a snap-button placket and drawcord hem. The white MGY oval sits on the upper chest.",
+   "seo": "A cropped hooded puffer in black with a snap-button placket and drawcord hem. The white MGY oval sits on the upper chest.",
+   "tags": [
+    "Puffers",
+    "Black",
+    "Hooded",
+    "Cropped",
+    "Outerwear",
+    "Logo"
+   ],
+   "price": 165,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-snap-front-crop-puffer",
+     "alt": "Black cropped hooded puffer jacket with a snap placket and a white MGY oval logo on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PUF-10-S",
+     "options": [
+      "S"
+     ],
+     "price": 165,
+     "stock": 5,
+     "image": null
+    },
+    {
+     "sku": "PUF-10-M",
+     "options": [
+      "M"
+     ],
+     "price": 165,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "PUF-10-L",
+     "options": [
+      "L"
+     ],
+     "price": 165,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "PUF-10-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 165,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "PUF-10-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 165,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "oversized-hood-puffer",
+   "title": "Oversized Hood Puffer",
+   "type": "Puffers",
+   "category": "Puffer Jackets",
+   "description": "An oversized black puffer built around a big, structured hood. Tonal MGY oval on the chest and an MGY armband on the sleeve.",
+   "seo": "An oversized black puffer built around a big, structured hood. Tonal MGY oval on the chest and an MGY armband on the sleeve.",
+   "tags": [
+    "Puffers",
+    "Black",
+    "Hooded",
+    "Oversized",
+    "Outerwear"
+   ],
+   "price": 195,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-oversized-hood-puffer",
+     "alt": "Black oversized puffer jacket with a large hood, tonal MGY logo on the chest and an armband logo on the sleeve"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PUF-11-S",
+     "options": [
+      "S"
+     ],
+     "price": 195,
+     "stock": 4,
+     "image": null
+    },
+    {
+     "sku": "PUF-11-M",
+     "options": [
+      "M"
+     ],
+     "price": 195,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "PUF-11-L",
+     "options": [
+      "L"
+     ],
+     "price": 195,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "PUF-11-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 195,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "PUF-11-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 195,
+     "stock": 3,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "armband-hood-puffer",
+   "title": "Armband Hood Puffer",
+   "type": "Puffers",
+   "category": "Puffer Jackets",
+   "description": "A black hooded puffer with a white MGY oval on the chest and the MGY script mark worn as an armband on the sleeve.",
+   "seo": "A black hooded puffer with a white MGY oval on the chest and the MGY script mark worn as an armband on the sleeve.",
+   "tags": [
+    "Puffers",
+    "Black",
+    "Hooded",
+    "Outerwear",
+    "Logo"
+   ],
+   "price": 185,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-armband-hood-puffer",
+     "alt": "Black hooded puffer jacket with a white MGY oval logo on the chest and an MGY armband on the sleeve"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PUF-12-S",
+     "options": [
+      "S"
+     ],
+     "price": 185,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "PUF-12-M",
+     "options": [
+      "M"
+     ],
+     "price": 185,
+     "stock": 11,
+     "image": null
+    },
+    {
+     "sku": "PUF-12-L",
+     "options": [
+      "L"
+     ],
+     "price": 185,
+     "stock": 11,
+     "image": null
+    },
+    {
+     "sku": "PUF-12-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 185,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "PUF-12-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 185,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "zip-through-hooded-puffer",
+   "title": "Zip-Through Hooded Puffer",
+   "type": "Puffers",
+   "category": "Puffer Jackets",
+   "description": "A zip-through hooded puffer with elasticated cuffs and a drawcord hem. Tonal MGY oval on the chest. Available in Black and Navy.",
+   "seo": "A zip-through hooded puffer with elasticated cuffs and a drawcord hem. Tonal MGY oval on the chest. Available in Black and Navy.",
+   "tags": [
+    "Puffers",
+    "Black",
+    "Navy",
+    "Hooded",
+    "Outerwear",
+    "Tonal logo"
+   ],
+   "price": 150,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      "Black",
+      "Navy"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-zip-through-hooded-puffer-black",
+     "alt": "Black zip-through hooded puffer jacket with a tonal MGY oval logo"
+    },
+    {
+     "file": "mgy-zip-through-hooded-puffer-navy",
+     "alt": "Navy zip-through hooded puffer jacket with a tonal MGY oval logo"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PUF-13-BLA-S",
+     "options": [
+      "S",
+      "Black"
+     ],
+     "price": 150,
+     "stock": 6,
+     "image": "mgy-zip-through-hooded-puffer-black"
+    },
+    {
+     "sku": "PUF-13-BLA-M",
+     "options": [
+      "M",
+      "Black"
+     ],
+     "price": 150,
+     "stock": 10,
+     "image": "mgy-zip-through-hooded-puffer-black"
+    },
+    {
+     "sku": "PUF-13-BLA-L",
+     "options": [
+      "L",
+      "Black"
+     ],
+     "price": 150,
+     "stock": 10,
+     "image": "mgy-zip-through-hooded-puffer-black"
+    },
+    {
+     "sku": "PUF-13-BLA-XL",
+     "options": [
+      "XL",
+      "Black"
+     ],
+     "price": 150,
+     "stock": 8,
+     "image": "mgy-zip-through-hooded-puffer-black"
+    },
+    {
+     "sku": "PUF-13-BLA-XXL",
+     "options": [
+      "XXL",
+      "Black"
+     ],
+     "price": 150,
+     "stock": 4,
+     "image": "mgy-zip-through-hooded-puffer-black"
+    },
+    {
+     "sku": "PUF-13-NAV-S",
+     "options": [
+      "S",
+      "Navy"
+     ],
+     "price": 150,
+     "stock": 6,
+     "image": "mgy-zip-through-hooded-puffer-navy"
+    },
+    {
+     "sku": "PUF-13-NAV-M",
+     "options": [
+      "M",
+      "Navy"
+     ],
+     "price": 150,
+     "stock": 10,
+     "image": "mgy-zip-through-hooded-puffer-navy"
+    },
+    {
+     "sku": "PUF-13-NAV-L",
+     "options": [
+      "L",
+      "Navy"
+     ],
+     "price": 150,
+     "stock": 10,
+     "image": "mgy-zip-through-hooded-puffer-navy"
+    },
+    {
+     "sku": "PUF-13-NAV-XL",
+     "options": [
+      "XL",
+      "Navy"
+     ],
+     "price": 150,
+     "stock": 8,
+     "image": "mgy-zip-through-hooded-puffer-navy"
+    },
+    {
+     "sku": "PUF-13-NAV-XXL",
+     "options": [
+      "XXL",
+      "Navy"
+     ],
+     "price": 150,
+     "stock": 4,
+     "image": "mgy-zip-through-hooded-puffer-navy"
+    }
+   ]
+  },
+  {
+   "handle": "two-tone-panel-puffer",
+   "title": "Two-Tone Panel Puffer",
+   "type": "Puffers",
+   "category": "Puffer Jackets",
+   "description": "A black puffer with a textured panel across the chest and shoulders and a detachable hood. Tonal MGY oval on the chest.",
+   "seo": "A black puffer with a textured panel across the chest and shoulders and a detachable hood. Tonal MGY oval on the chest.",
+   "tags": [
+    "Puffers",
+    "Black",
+    "Hooded",
+    "Outerwear",
+    "Tonal logo"
+   ],
+   "price": 180,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-two-tone-panel-puffer",
+     "alt": "Black two-tone puffer jacket with a textured chest panel, detachable hood and a tonal MGY logo"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PUF-14-S",
+     "options": [
+      "S"
+     ],
+     "price": 180,
+     "stock": 5,
+     "image": null
+    },
+    {
+     "sku": "PUF-14-M",
+     "options": [
+      "M"
+     ],
+     "price": 180,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "PUF-14-L",
+     "options": [
+      "L"
+     ],
+     "price": 180,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "PUF-14-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 180,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "PUF-14-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 180,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "sand-two-tone-puffer",
+   "title": "Sand Two-Tone Puffer",
+   "type": "Puffers",
+   "category": "Puffer Jackets",
+   "description": "A sand puffer with a brown hood and brown panelling across the chest. The white MGY oval sits on the chest.",
+   "seo": "A sand puffer with a brown hood and brown panelling across the chest. The white MGY oval sits on the chest.",
+   "tags": [
+    "Puffers",
+    "Sand",
+    "Brown",
+    "Hooded",
+    "Outerwear",
+    "Logo"
+   ],
+   "price": 170,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-sand-two-tone-puffer",
+     "alt": "Sand and brown two-tone hooded puffer jacket with a white MGY oval logo on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PUF-15-S",
+     "options": [
+      "S"
+     ],
+     "price": 170,
+     "stock": 5,
+     "image": null
+    },
+    {
+     "sku": "PUF-15-M",
+     "options": [
+      "M"
+     ],
+     "price": 170,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "PUF-15-L",
+     "options": [
+      "L"
+     ],
+     "price": 170,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "PUF-15-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 170,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "PUF-15-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 170,
+     "stock": 3,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "cream-stand-collar-puffer",
+   "title": "Cream Stand-Collar Puffer",
+   "type": "Puffers",
+   "category": "Puffer Jackets",
+   "description": "A cream puffer with a stand collar and a soft, rounded quilted shape. MGY oval on the chest.",
+   "seo": "A cream puffer with a stand collar and a soft, rounded quilted shape. MGY oval on the chest.",
+   "tags": [
+    "Puffers",
+    "Cream",
+    "Outerwear",
+    "Logo"
+   ],
+   "price": 165,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-cream-stand-collar-puffer",
+     "alt": "Cream stand-collar puffer jacket with an MGY oval logo on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PUF-16-S",
+     "options": [
+      "S"
+     ],
+     "price": 165,
+     "stock": 5,
+     "image": null
+    },
+    {
+     "sku": "PUF-16-M",
+     "options": [
+      "M"
+     ],
+     "price": 165,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "PUF-16-L",
+     "options": [
+      "L"
+     ],
+     "price": 165,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "PUF-16-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 165,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "PUF-16-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 165,
+     "stock": 3,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "hooded-puffer-vest",
+   "title": "Hooded Puffer Vest",
+   "type": "Puffers",
+   "category": "Vests",
+   "description": "A black puffer vest with a hood and full zip front, for layering over hoodies and long sleeves. Tonal MGY oval on the chest.",
+   "seo": "A black puffer vest with a hood and full zip front, for layering over hoodies and long sleeves. Tonal MGY oval on the chest.",
+   "tags": [
+    "Puffers",
+    "Black",
+    "Vest",
+    "Hooded",
+    "Layering",
+    "Tonal logo"
+   ],
+   "price": 110,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-hooded-puffer-vest",
+     "alt": "Black hooded puffer vest with a tonal MGY oval logo on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PUF-17-S",
+     "options": [
+      "S"
+     ],
+     "price": 110,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "PUF-17-M",
+     "options": [
+      "M"
+     ],
+     "price": 110,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PUF-17-L",
+     "options": [
+      "L"
+     ],
+     "price": 110,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "PUF-17-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 110,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "PUF-17-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 110,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "stand-collar-puffer-vest",
+   "title": "Stand-Collar Puffer Vest",
+   "type": "Puffers",
+   "category": "Vests",
+   "description": "A near-black stand-collar puffer vest with a quilted body, zip front and hand pockets. Tonal MGY oval on the chest.",
+   "seo": "A near-black stand-collar puffer vest with a quilted body, zip front and hand pockets. Tonal MGY oval on the chest.",
+   "tags": [
+    "Puffers",
+    "Black",
+    "Vest",
+    "Layering",
+    "Tonal logo"
+   ],
+   "price": 115,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-stand-collar-puffer-vest",
+     "alt": "Dark stand-collar puffer vest with a tonal MGY oval logo on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PUF-18-S",
+     "options": [
+      "S"
+     ],
+     "price": 115,
+     "stock": 5,
+     "image": null
+    },
+    {
+     "sku": "PUF-18-M",
+     "options": [
+      "M"
+     ],
+     "price": 115,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "PUF-18-L",
+     "options": [
+      "L"
+     ],
+     "price": 115,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "PUF-18-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 115,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "PUF-18-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 115,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "collared-puffer-jacket",
+   "title": "Collared Puffer Jacket",
+   "type": "Puffers",
+   "category": "Puffer Jackets",
+   "description": "A black puffer with a stand collar and a boxy, quilted body. Tonal MGY oval on the chest.",
+   "seo": "A black puffer with a stand collar and a boxy, quilted body. Tonal MGY oval on the chest.",
+   "tags": [
+    "Puffers",
+    "Black",
+    "Outerwear",
+    "Tonal logo"
+   ],
+   "price": 155,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-collared-puffer-jacket",
+     "alt": "Black collared puffer jacket with a tonal MGY oval logo on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "PUF-19-S",
+     "options": [
+      "S"
+     ],
+     "price": 155,
+     "stock": 5,
+     "image": null
+    },
+    {
+     "sku": "PUF-19-M",
+     "options": [
+      "M"
+     ],
+     "price": 155,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "PUF-19-L",
+     "options": [
+      "L"
+     ],
+     "price": 155,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "PUF-19-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 155,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "PUF-19-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 155,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "flight-bomber-jacket",
+   "title": "Flight Bomber Jacket",
+   "type": "Jackets",
+   "category": "Bomber Jackets",
+   "description": "A black flight bomber with a contrast orange lining, ribbed collar and hem, and a zip pocket on the sleeve. Tonal MGY oval on the chest.",
+   "seo": "A black flight bomber with a contrast orange lining, ribbed collar and hem, and a zip pocket on the sleeve. Tonal MGY oval on the chest.",
+   "tags": [
+    "Jackets",
+    "Black",
+    "Bomber",
+    "Outerwear",
+    "Tonal logo"
+   ],
+   "price": 140,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-flight-bomber-jacket",
+     "alt": "Black flight bomber jacket with an orange lining, sleeve zip pocket and a tonal MGY logo"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "JKT-01-S",
+     "options": [
+      "S"
+     ],
+     "price": 140,
+     "stock": 5,
+     "image": null
+    },
+    {
+     "sku": "JKT-01-M",
+     "options": [
+      "M"
+     ],
+     "price": 140,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "JKT-01-L",
+     "options": [
+      "L"
+     ],
+     "price": 140,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "JKT-01-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 140,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "JKT-01-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 140,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "zip-work-jacket",
+   "title": "Zip Work Jacket",
+   "type": "Jackets",
+   "category": "Coats & Jackets",
+   "description": "A black work jacket with a collar, a two-way zip and slanted front pockets. Tonal MGY oval on the chest.",
+   "seo": "A black work jacket with a collar, a two-way zip and slanted front pockets. Tonal MGY oval on the chest.",
+   "tags": [
+    "Jackets",
+    "Black",
+    "Workwear",
+    "Outerwear",
+    "Tonal logo"
+   ],
+   "price": 120,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-zip-work-jacket",
+     "alt": "Black collared zip work jacket with slanted pockets and a tonal MGY logo on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "JKT-02-S",
+     "options": [
+      "S"
+     ],
+     "price": 120,
+     "stock": 5,
+     "image": null
+    },
+    {
+     "sku": "JKT-02-M",
+     "options": [
+      "M"
+     ],
+     "price": 120,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "JKT-02-L",
+     "options": [
+      "L"
+     ],
+     "price": 120,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "JKT-02-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 120,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "JKT-02-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 120,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "leather-varsity-bomber",
+   "title": "Leather Varsity Bomber",
+   "type": "Jackets",
+   "category": "Varsity Jackets",
+   "description": "A black leather varsity bomber with a snap-button front, a collar and a ribbed hem. Tonal MGY oval on the chest.",
+   "seo": "A black leather varsity bomber with a snap-button front, a collar and a ribbed hem. Tonal MGY oval on the chest.",
+   "tags": [
+    "Jackets",
+    "Black",
+    "Leather",
+    "Varsity",
+    "Outerwear",
+    "Tonal logo"
+   ],
+   "price": 220,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-leather-varsity-bomber",
+     "alt": "Black leather varsity bomber jacket with snap front and a tonal MGY logo on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "JKT-03-S",
+     "options": [
+      "S"
+     ],
+     "price": 220,
+     "stock": 4,
+     "image": null
+    },
+    {
+     "sku": "JKT-03-M",
+     "options": [
+      "M"
+     ],
+     "price": 220,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "JKT-03-L",
+     "options": [
+      "L"
+     ],
+     "price": 220,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "JKT-03-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 220,
+     "stock": 5,
+     "image": null
+    },
+    {
+     "sku": "JKT-03-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 220,
+     "stock": 2,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "hooded-leather-jacket",
+   "title": "Hooded Leather Jacket",
+   "type": "Jackets",
+   "category": "Coats & Jackets",
+   "description": "A black leather jacket with a lined hood, a full zip, textured sleeves and a ribbed hem. White MGY logo on the chest.",
+   "seo": "A black leather jacket with a lined hood, a full zip, textured sleeves and a ribbed hem. White MGY logo on the chest.",
+   "tags": [
+    "Jackets",
+    "Black",
+    "Leather",
+    "Hooded",
+    "Outerwear",
+    "Logo"
+   ],
+   "price": 215,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-hooded-leather-jacket",
+     "alt": "Black hooded leather jacket with textured sleeves and a white MGY logo on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "JKT-04-S",
+     "options": [
+      "S"
+     ],
+     "price": 215,
+     "stock": 4,
+     "image": null
+    },
+    {
+     "sku": "JKT-04-M",
+     "options": [
+      "M"
+     ],
+     "price": 215,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "JKT-04-L",
+     "options": [
+      "L"
+     ],
+     "price": 215,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "JKT-04-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 215,
+     "stock": 5,
+     "image": null
+    },
+    {
+     "sku": "JKT-04-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 215,
+     "stock": 2,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "leather-bomber-jacket",
+   "title": "Leather Bomber Jacket",
+   "type": "Jackets",
+   "category": "Bomber Jackets",
+   "description": "A black leather bomber with a collar, a full zip and a ribbed hem. White MGY oval on the chest.",
+   "seo": "A black leather bomber with a collar, a full zip and a ribbed hem. White MGY oval on the chest.",
+   "tags": [
+    "Jackets",
+    "Black",
+    "Leather",
+    "Bomber",
+    "Outerwear",
+    "Logo"
+   ],
+   "price": 210,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-leather-bomber-jacket",
+     "alt": "Black leather bomber jacket with a collar and a white MGY oval logo on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "JKT-05-S",
+     "options": [
+      "S"
+     ],
+     "price": 210,
+     "stock": 4,
+     "image": null
+    },
+    {
+     "sku": "JKT-05-M",
+     "options": [
+      "M"
+     ],
+     "price": 210,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "JKT-05-L",
+     "options": [
+      "L"
+     ],
+     "price": 210,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "JKT-05-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 210,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "JKT-05-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 210,
+     "stock": 3,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "quarter-zip-pullover",
+   "title": "Quarter-Zip Pullover",
+   "type": "Hoodies",
+   "category": "Sweatshirts",
+   "description": "A black quarter-zip pullover with a stand collar and a relaxed fit. Tonal MGY oval on the chest.",
+   "seo": "A black quarter-zip pullover with a stand collar and a relaxed fit. Tonal MGY oval on the chest.",
+   "tags": [
+    "Hoodies",
+    "Black",
+    "Pullover",
+    "Quarter-zip",
+    "Tonal logo"
+   ],
+   "price": 80,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-quarter-zip-pullover",
+     "alt": "Black quarter-zip pullover with a stand collar and a tonal MGY logo on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "HOD-01-S",
+     "options": [
+      "S"
+     ],
+     "price": 80,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "HOD-01-M",
+     "options": [
+      "M"
+     ],
+     "price": 80,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "HOD-01-L",
+     "options": [
+      "L"
+     ],
+     "price": 80,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "HOD-01-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 80,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "HOD-01-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 80,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "boxy-logo-hoodie",
+   "title": "Boxy Logo Hoodie",
+   "type": "Hoodies",
+   "category": "Hoodies",
+   "description": "A boxy black hoodie with a wide hood and a ribbed hem. White MGY oval centred on the chest.",
+   "seo": "A boxy black hoodie with a wide hood and a ribbed hem. White MGY oval centred on the chest.",
+   "tags": [
+    "Hoodies",
+    "Black",
+    "Boxy",
+    "Logo"
+   ],
+   "price": 75,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-boxy-logo-hoodie",
+     "alt": "Black boxy hoodie with a white MGY oval logo centred on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "HOD-02-S",
+     "options": [
+      "S"
+     ],
+     "price": 75,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "HOD-02-M",
+     "options": [
+      "M"
+     ],
+     "price": 75,
+     "stock": 12,
+     "image": null
+    },
+    {
+     "sku": "HOD-02-L",
+     "options": [
+      "L"
+     ],
+     "price": 75,
+     "stock": 12,
+     "image": null
+    },
+    {
+     "sku": "HOD-02-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 75,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "HOD-02-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 75,
+     "stock": 5,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "tech-zip-hoodie",
+   "title": "Tech Zip Hoodie",
+   "type": "Hoodies",
+   "category": "Hoodies",
+   "description": "A black zip-through hoodie with panelled seams and a zipped sleeve pocket. White MGY oval on the chest.",
+   "seo": "A black zip-through hoodie with panelled seams and a zipped sleeve pocket. White MGY oval on the chest.",
+   "tags": [
+    "Hoodies",
+    "Black",
+    "Zip",
+    "Tech",
+    "Logo"
+   ],
+   "price": 90,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-tech-zip-hoodie",
+     "alt": "Black zip-through tech hoodie with panelled seams, a sleeve pocket and a white MGY logo"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "HOD-03-S",
+     "options": [
+      "S"
+     ],
+     "price": 90,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "HOD-03-M",
+     "options": [
+      "M"
+     ],
+     "price": 90,
+     "stock": 11,
+     "image": null
+    },
+    {
+     "sku": "HOD-03-L",
+     "options": [
+      "L"
+     ],
+     "price": 90,
+     "stock": 11,
+     "image": null
+    },
+    {
+     "sku": "HOD-03-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 90,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "HOD-03-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 90,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "cream-crop-hoodie",
+   "title": "Cream Crop Hoodie",
+   "type": "Hoodies",
+   "category": "Hoodies",
+   "description": "A cropped cream hoodie with a raw hem, a drawstring hood and a MGY logo patch.",
+   "seo": "A cropped cream hoodie with a raw hem, a drawstring hood and a MGY logo patch.",
+   "tags": [
+    "Hoodies",
+    "Cream",
+    "Cropped",
+    "Logo"
+   ],
+   "price": 65,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-cream-crop-hoodie",
+     "alt": "Cream cropped hoodie with a drawstring hood, raw hem and an MGY logo patch"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "HOD-04-S",
+     "options": [
+      "S"
+     ],
+     "price": 65,
+     "stock": 5,
+     "image": null
+    },
+    {
+     "sku": "HOD-04-M",
+     "options": [
+      "M"
+     ],
+     "price": 65,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "HOD-04-L",
+     "options": [
+      "L"
+     ],
+     "price": 65,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "HOD-04-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 65,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "HOD-04-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 65,
+     "stock": 3,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "black-crop-hoodie",
+   "title": "Black Crop Hoodie",
+   "type": "Hoodies",
+   "category": "Hoodies",
+   "description": "A cropped black hoodie with a drawstring hood and long sleeves. White MGY oval on the chest.",
+   "seo": "A cropped black hoodie with a drawstring hood and long sleeves. White MGY oval on the chest.",
+   "tags": [
+    "Hoodies",
+    "Black",
+    "Cropped",
+    "Logo"
+   ],
+   "price": 65,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-black-crop-hoodie",
+     "alt": "Black cropped hoodie with a drawstring hood and a white MGY oval logo on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "HOD-05-S",
+     "options": [
+      "S"
+     ],
+     "price": 65,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "HOD-05-M",
+     "options": [
+      "M"
+     ],
+     "price": 65,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "HOD-05-L",
+     "options": [
+      "L"
+     ],
+     "price": 65,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "HOD-05-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 65,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "HOD-05-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 65,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "white-shrug-hoodie",
+   "title": "White Shrug Hoodie",
+   "type": "Hoodies",
+   "category": "Hoodies",
+   "description": "A white cropped shrug hoodie with long sleeves, a drawstring hood and the MGY script mark on the chest.",
+   "seo": "A white cropped shrug hoodie with long sleeves, a drawstring hood and the MGY script mark on the chest.",
+   "tags": [
+    "Hoodies",
+    "White",
+    "Cropped",
+    "Shrug",
+    "Logo"
+   ],
+   "price": 60,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-white-shrug-hoodie",
+     "alt": "White cropped shrug hoodie with long sleeves, a drawstring hood and an MGY script logo"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "HOD-06-S",
+     "options": [
+      "S"
+     ],
+     "price": 60,
+     "stock": 4,
+     "image": null
+    },
+    {
+     "sku": "HOD-06-M",
+     "options": [
+      "M"
+     ],
+     "price": 60,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "HOD-06-L",
+     "options": [
+      "L"
+     ],
+     "price": 60,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "HOD-06-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 60,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "HOD-06-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 60,
+     "stock": 3,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "white-zip-crop-hoodie",
+   "title": "White Zip Crop Hoodie",
+   "type": "Hoodies",
+   "category": "Hoodies",
+   "description": "A cropped white zip hoodie with a soft lined hood. MGY oval on the chest.",
+   "seo": "A cropped white zip hoodie with a soft lined hood. MGY oval on the chest.",
+   "tags": [
+    "Hoodies",
+    "White",
+    "Cropped",
+    "Zip",
+    "Logo"
+   ],
+   "price": 70,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-white-zip-crop-hoodie",
+     "alt": "White cropped zip hoodie with a lined hood and an MGY oval logo on the chest"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "HOD-07-S",
+     "options": [
+      "S"
+     ],
+     "price": 70,
+     "stock": 5,
+     "image": null
+    },
+    {
+     "sku": "HOD-07-M",
+     "options": [
+      "M"
+     ],
+     "price": 70,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "HOD-07-L",
+     "options": [
+      "L"
+     ],
+     "price": 70,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "HOD-07-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 70,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "HOD-07-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 70,
+     "stock": 3,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "wide-leg-sweatpants",
+   "title": "Wide-Leg Sweatpants",
+   "type": "Bottoms",
+   "category": "Sweatpants",
+   "description": "Black wide-leg sweatpants with an elasticated, drawcord waist. A tonal MGY oval sits on the upper thigh.",
+   "seo": "Black wide-leg sweatpants with an elasticated, drawcord waist. A tonal MGY oval sits on the upper thigh.",
+   "tags": [
+    "Bottoms",
+    "Black",
+    "Sweatpants",
+    "Wide leg",
+    "Tonal logo"
+   ],
+   "price": 65,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-wide-leg-sweatpants",
+     "alt": "Black wide-leg sweatpants with a drawcord waist and a tonal MGY logo"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "BTM-01-S",
+     "options": [
+      "S"
+     ],
+     "price": 65,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "BTM-01-M",
+     "options": [
+      "M"
+     ],
+     "price": 65,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "BTM-01-L",
+     "options": [
+      "L"
+     ],
+     "price": 65,
+     "stock": 10,
+     "image": null
+    },
+    {
+     "sku": "BTM-01-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 65,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "BTM-01-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 65,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "camo-cargo-pants",
+   "title": "Camo Cargo Pants",
+   "type": "Bottoms",
+   "category": "Cargo Pants",
+   "description": "Wide-leg cargo pants in a green camo print with a white MGY oval on the thigh.",
+   "seo": "Wide-leg cargo pants in a green camo print with a white MGY oval on the thigh.",
+   "tags": [
+    "Bottoms",
+    "Camo",
+    "Cargo",
+    "Wide leg",
+    "Logo"
+   ],
+   "price": 80,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-camo-cargo-pants",
+     "alt": "Green camo wide-leg cargo pants with a white MGY oval logo on the thigh"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "BTM-02-S",
+     "options": [
+      "S"
+     ],
+     "price": 80,
+     "stock": 5,
+     "image": null
+    },
+    {
+     "sku": "BTM-02-M",
+     "options": [
+      "M"
+     ],
+     "price": 80,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "BTM-02-L",
+     "options": [
+      "L"
+     ],
+     "price": 80,
+     "stock": 9,
+     "image": null
+    },
+    {
+     "sku": "BTM-02-XL",
+     "options": [
+      "XL"
+     ],
+     "price": 80,
+     "stock": 7,
+     "image": null
+    },
+    {
+     "sku": "BTM-02-XXL",
+     "options": [
+      "XXL"
+     ],
+     "price": 80,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "mgy-eagle-necklace",
+   "title": "MGY Eagle Necklace",
+   "type": "Jewelry",
+   "category": "Necklaces",
+   "description": "The MGY eagle crest pendant in a polished gold finish, hung on a Cuban chain with a lobster clasp. Available in 18, 20, 22 and 24 inch chain lengths.",
+   "seo": "The MGY eagle crest pendant in a polished gold finish, hung on a Cuban chain with a lobster clasp. Available in 18, 20, 22 and 24 inch chain lengths.",
+   "tags": [
+    "Jewelry",
+    "Gold",
+    "Eagle",
+    "Pendant",
+    "Necklace",
+    "Chain"
+   ],
+   "price": 120,
+   "priceVaries": true,
+   "options": [
+    {
+     "name": "Chain Length",
+     "values": [
+      "18 in",
+      "20 in",
+      "22 in",
+      "24 in"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-eagle-necklace",
+     "alt": "MGY eagle crest pendant on a gold Cuban chain (3D render)"
+    },
+    {
+     "file": "mgy-eagle-necklace-2",
+     "alt": "Close-up of the gold MGY eagle crest pendant hanging from its chain (3D render)"
+    },
+    {
+     "file": "mgy-eagle-necklace-3",
+     "alt": "Front view of the gold eagle crest pendant with spread wings and a shield (3D render)"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "JWL-04-18",
+     "options": [
+      "18 in"
+     ],
+     "price": 120,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "JWL-04-20",
+     "options": [
+      "20 in"
+     ],
+     "price": 125,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "JWL-04-22",
+     "options": [
+      "22 in"
+     ],
+     "price": 130,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "JWL-04-24",
+     "options": [
+      "24 in"
+     ],
+     "price": 135,
+     "stock": 6,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "mgy-pendant-curb-chain",
+   "title": "MGY Pendant & Curb Chain",
+   "type": "Jewelry",
+   "category": "Necklaces",
+   "description": "The MGY pendant in a polished silver finish, hung on a heavy curb chain with a lobster clasp. Available in 18, 20, 22 and 24 inch chain lengths.",
+   "seo": "The MGY pendant in a polished silver finish, hung on a heavy curb chain with a lobster clasp. Available in 18, 20, 22 and 24 inch chain lengths.",
+   "tags": [
+    "Jewelry",
+    "Silver",
+    "Pendant",
+    "Necklace",
+    "Chain"
+   ],
+   "price": 85,
+   "priceVaries": true,
+   "options": [
+    {
+     "name": "Chain Length",
+     "values": [
+      "18 in",
+      "20 in",
+      "22 in",
+      "24 in"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-pendant-curb-chain",
+     "alt": "MGY pendant on a silver curb chain, laid flat on a dark surface"
+    },
+    {
+     "file": "mgy-pendant-curb-chain-2",
+     "alt": "MGY pendant and curb chain worn on the neck over a black tee"
+    },
+    {
+     "file": "mgy-pendant-curb-chain-3",
+     "alt": "Close-up of the polished silver MGY pendant on its curb chain"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "JWL-01-18",
+     "options": [
+      "18 in"
+     ],
+     "price": 85,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "JWL-01-20",
+     "options": [
+      "20 in"
+     ],
+     "price": 90,
+     "stock": 12,
+     "image": null
+    },
+    {
+     "sku": "JWL-01-22",
+     "options": [
+      "22 in"
+     ],
+     "price": 95,
+     "stock": 12,
+     "image": null
+    },
+    {
+     "sku": "JWL-01-24",
+     "options": [
+      "24 in"
+     ],
+     "price": 100,
+     "stock": 8,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "mgy-sculptural-ring",
+   "title": "MGY Sculptural Ring",
+   "type": "Jewelry",
+   "category": "Rings",
+   "description": "A sculptural signet ring with the MGY wordmark in a liquid gold finish. Available in US ring sizes 7 to 12.",
+   "seo": "A sculptural signet ring with the MGY wordmark in a liquid gold finish. Available in US ring sizes 7 to 12.",
+   "tags": [
+    "Jewelry",
+    "Gold",
+    "Ring",
+    "Signet"
+   ],
+   "price": 75,
+   "priceVaries": false,
+   "options": [
+    {
+     "name": "Ring Size",
+     "values": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "file": "mgy-sculptural-ring",
+     "alt": "Gold MGY sculptural signet ring on a dark surface"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "JWL-02-7",
+     "options": [
+      "7"
+     ],
+     "price": 75,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "JWL-02-8",
+     "options": [
+      "8"
+     ],
+     "price": 75,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "JWL-02-9",
+     "options": [
+      "9"
+     ],
+     "price": 75,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "JWL-02-10",
+     "options": [
+      "10"
+     ],
+     "price": 75,
+     "stock": 8,
+     "image": null
+    },
+    {
+     "sku": "JWL-02-11",
+     "options": [
+      "11"
+     ],
+     "price": 75,
+     "stock": 6,
+     "image": null
+    },
+    {
+     "sku": "JWL-02-12",
+     "options": [
+      "12"
+     ],
+     "price": 75,
+     "stock": 4,
+     "image": null
+    }
+   ]
+  },
+  {
+   "handle": "mgy-belt-buckle",
+   "title": "MGY Belt Buckle",
+   "type": "Jewelry",
+   "category": "Belt Buckles",
+   "description": "A polished silver belt buckle with the MGY wordmark set inside an open oval frame. Fits a standard belt strap.",
+   "seo": "A polished silver belt buckle with the MGY wordmark set inside an open oval frame. Fits a standard belt strap.",
+   "tags": [
+    "Jewelry",
+    "Silver",
+    "Belt buckle",
+    "Accessories"
+   ],
+   "price": 60,
+   "priceVaries": false,
+   "options": [],
+   "images": [
+    {
+     "file": "mgy-belt-buckle",
+     "alt": "Polished silver MGY belt buckle on a black leather belt"
+    }
+   ],
+   "variants": [
+    {
+     "sku": "JWL-03",
+     "options": [],
+     "price": 60,
+     "stock": 15,
+     "image": null
+    }
+   ]
+  }
+ ]
+}

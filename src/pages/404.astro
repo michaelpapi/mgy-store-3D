@@ -1,0 +1,10 @@
+---
+import Base from '../layouts/Base.astro';
+import { config } from '../lib/site';
+---
+<Base title={`Page not found – ${config.business.name}`} description="That page does not exist.">
+  <section class="page-wrap"><div class="in">
+    <h1 class="display">Page not found</h1>
+    <p>That page does not exist. <a href="/#shop">Back to the shop</a>.</p>
+  </div></section>
+</Base>
